@@ -1,0 +1,17 @@
+§2§lBugs and performance
+
+There are a couple known unfixable bugs:
+- DO NOT CRAFT MICROBLOCKS IN CREATIVE MODE. This will corrupt your world.
+- When using Techguns explosive charges, do not open the gui in mid-air. Put it down, wait a couple of seconds before opening the GUI.
+- Same for the particle accelerator GUI, don't open it in mid-air.
+- Do not press F3 in places other than the overworld.
+- Sometimes Railcraft locomotives with an anchor cart will get stuck on their journey. If that happens, try to use booster tracks instead.
+- IE Assemblers will eat TFC tools, such as saws, instead of using durability
+- TFC Textures sometimes get rotated.  It's a bug with the mod that was never fixed
+
+TPS Tips:
+1. Always use dedicated pipe runs with High Pressure Pipes!
+    During the test run period it was discovered that a fluid network with high pressure pipes with multiple fluids sharing the same pipeline can cause serious performance issues, especially with a large network. 
+2. The TFC anvil eats a lot of tick time even while sitting idle. You might want to put it inside a chest when not using it.
+
+The number of machines present in your base might cause a large FPS drop towards the endgame. If you don't have a good rig, I'd recommend planning your base horizontally instead of vertically and setting a lower view distance.
