@@ -1,4 +1,4 @@
-####
+#### 1.3.1
 
 This update is brought to you by Horthrax and ladyofwc.
 * Removed starting apples by editing FTBUtils config in local/
