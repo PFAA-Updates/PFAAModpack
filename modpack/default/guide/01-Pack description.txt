@@ -1,6 +1,6 @@
-§2§lPack Description
+﻿§2§lPack Description
 
-§0Hello and welcome to the pack of project Per Fabrica Ad Astra ("Through crafting, to the stars"), created by wormzijl and with contributions from members of the PFAA Community!
+§0Hello and welcome to the pack of project Per Fabrica Ad Astra ("Through crafting, to the stars"), created by team CappCraft. We are a group of players who seek the limits of modded Minecraft.
 
 The pack was named after a mod created by noogenesis, which aims at improving the technical realism of modded Minecraft. The content of this pack was heavily inspired by the TNFC pack, and factorio mods such as bob’s and angel’s. 
 
@@ -26,4 +26,3 @@ An information package can be downloaded on:
 
 This package contains flowcharts and oregen chart, check this out if you have problem finding stuffs.
 
-{"text":"Check out the Discord server for more information, other players, and help!", "click":{"type":"url", "data":"https://discord.gg/nSxJEKd3E2"}}
