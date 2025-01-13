@@ -1,0 +1,102 @@
+{
+  "questIDHigh:4": -6617020390976044153,
+  "preRequisites:9": {
+    "0:10": {
+      "questIDHigh:4": 1563116326214322434,
+      "questIDLow:4": -7559672145023827049
+    }
+  },
+  "questIDLow:4": -4951592099572003588,
+  "properties:10": {
+    "betterquesting:10": {
+      "snd_complete:8": "random.levelup",
+      "taskLogic:8": "AND",
+      "visibility:8": "NORMAL",
+      "isMain:1": 0,
+      "simultaneous:1": 0,
+      "icon:10": {
+        "id:8": "terrafirmacraft:item.Strawberry",
+        "Count:3": 1,
+        "tag:10": {
+          "foodWeight:5": 160.0,
+          "foodDecay:5": -24.0,
+          "decayTimer:3": 719
+        },
+        "Damage:2": 0,
+        "OreDict:8": ""
+      },
+      "snd_update:8": "random.levelup",
+      "repeatTime:3": -1,
+      "globalShare:1": 0,
+      "questLogic:8": "AND",
+      "repeat_relative:1": 1,
+      "name:8": "Berries",
+      "lockedProgress:1": 0,
+      "autoClaim:1": 0,
+      "isSilent:1": 0,
+      "desc:8": "Berries are plentiful and a good hold-over food to snack on before crops are ready for harvest."
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "partialMatch:1": 1,
+      "autoConsume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 1,
+      "index:3": 0,
+      "consume:1": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "id:8": "terrafirmacraft:item.Strawberry",
+          "Count:3": 1,
+          "tag:10": {
+            "foodWeight:5": 160.0,
+            "foodDecay:5": -24.0,
+            "decayTimer:3": 719
+          },
+          "Damage:2": 0,
+          "OreDict:8": ""
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  },
+  "rewards:9": {
+    "0:10": {
+      "rewardID:8": "bq_standard:item",
+      "index:3": 0,
+      "rewards:9": {
+        "0:10": {
+          "id:8": "terrafirmacraft:BerryBush",
+          "Count:3": 4,
+          "Damage:2": 3,
+          "OreDict:8": ""
+        }
+      }
+    },
+    "1:10": {
+      "rewardID:8": "bq_standard:choice",
+      "index:3": 1,
+      "choices:9": {
+        "0:10": {
+          "id:8": "terrafirmacraft:BerryBush",
+          "Count:3": 4,
+          "Damage:2": 1,
+          "OreDict:8": ""
+        },
+        "1:10": {
+          "id:8": "terrafirmacraft:BerryBush",
+          "Count:3": 4,
+          "Damage:2": 2,
+          "OreDict:8": ""
+        },
+        "2:10": {
+          "id:8": "terrafirmacraft:BerryBush",
+          "Count:3": 4,
+          "Damage:2": 8,
+          "OreDict:8": ""
+        }
+      }
+    }
+  }
+}

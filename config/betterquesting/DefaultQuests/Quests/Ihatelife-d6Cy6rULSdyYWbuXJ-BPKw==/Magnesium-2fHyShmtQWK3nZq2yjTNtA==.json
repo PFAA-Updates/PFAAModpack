@@ -1,0 +1,68 @@
+{
+  "questIDHigh:4": -2742144298019634846,
+  "preRequisites:9": {
+    "0:10": {
+      "questIDHigh:4": -3444477910097376100,
+      "questIDLow:4": -6662955101132639040
+    }
+  },
+  "questIDLow:4": -5215842683557982796,
+  "properties:10": {
+    "betterquesting:10": {
+      "snd_complete:8": "random.levelup",
+      "taskLogic:8": "AND",
+      "visibility:8": "NORMAL",
+      "isMain:1": 0,
+      "simultaneous:1": 0,
+      "icon:10": {
+        "id:8": "ihl:item.ihlSimpleItem",
+        "Count:3": 1,
+        "Damage:2": 157,
+        "OreDict:8": ""
+      },
+      "snd_update:8": "random.levelup",
+      "repeatTime:3": -1,
+      "globalShare:1": 0,
+      "questLogic:8": "AND",
+      "repeat_relative:1": 1,
+      "name:8": "Magnesium",
+      "lockedProgress:1": 0,
+      "autoClaim:1": 0,
+      "isSilent:1": 0,
+      "desc:8": "Like aluminium, magnesium is highly reactive and needs to be obtained via electrolysis with molten NaCl as electrolyte."
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "partialMatch:1": 1,
+      "autoConsume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 1,
+      "index:3": 0,
+      "consume:1": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "id:8": "ihl:item.ihlSimpleItem",
+          "Count:3": 1,
+          "Damage:2": 157,
+          "OreDict:8": ""
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  },
+  "rewards:9": {
+    "0:10": {
+      "rewardID:8": "bq_standard:item",
+      "index:3": 0,
+      "rewards:9": {
+        "0:10": {
+          "id:8": "ihl:item.ihlSimpleItem",
+          "Count:3": 1,
+          "Damage:2": 157,
+          "OreDict:8": ""
+        }
+      }
+    }
+  }
+}

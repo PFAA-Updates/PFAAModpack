@@ -1,0 +1,76 @@
+{
+  "questIDHigh:4": -5573551401928539897,
+  "preRequisites:9": {
+    "0:10": {
+      "questIDHigh:4": 6000966173807168396,
+      "questIDLow:4": -4643182812790567747
+    },
+    "1:10": {
+      "questIDHigh:4": -3081468974878144699,
+      "questIDLow:4": -6588932255630565348
+    },
+    "2:10": {
+      "questIDHigh:4": -1475006381988558119,
+      "questIDLow:4": -5263288224409095518
+    }
+  },
+  "questIDLow:4": -7140523437668815861,
+  "properties:10": {
+    "betterquesting:10": {
+      "snd_complete:8": "random.levelup",
+      "taskLogic:8": "AND",
+      "visibility:8": "NORMAL",
+      "isMain:1": 0,
+      "simultaneous:1": 0,
+      "icon:10": {
+        "id:8": "advancedRocketry:wafer",
+        "Count:3": 1,
+        "Damage:2": 0,
+        "OreDict:8": ""
+      },
+      "snd_update:8": "random.levelup",
+      "repeatTime:3": -1,
+      "globalShare:1": 0,
+      "questLogic:8": "AND",
+      "repeat_relative:1": 1,
+      "name:8": "Circuitry: Silicon Wafer",
+      "lockedProgress:1": 0,
+      "autoClaim:1": 0,
+      "isSilent:1": 0,
+      "desc:8": "After recrystallization, a mono-crystallin silicon is obtained. It can then be used to produce circuits."
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "partialMatch:1": 1,
+      "autoConsume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 1,
+      "index:3": 0,
+      "consume:1": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "id:8": "advancedRocketry:wafer",
+          "Count:3": 1,
+          "Damage:2": 0,
+          "OreDict:8": ""
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  },
+  "rewards:9": {
+    "0:10": {
+      "rewardID:8": "bq_standard:item",
+      "index:3": 0,
+      "rewards:9": {
+        "0:10": {
+          "id:8": "advancedRocketry:wafer",
+          "Count:3": 1,
+          "Damage:2": 0,
+          "OreDict:8": ""
+        }
+      }
+    }
+  }
+}

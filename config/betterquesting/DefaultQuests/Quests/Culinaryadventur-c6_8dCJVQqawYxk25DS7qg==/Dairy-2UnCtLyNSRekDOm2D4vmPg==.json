@@ -1,0 +1,83 @@
+{
+  "questIDHigh:4": -2789484412666033897,
+  "preRequisites:9": {
+    "0:10": {
+      "questIDHigh:4": -1505936618056888325,
+      "questIDLow:4": -7077155673055458779
+    }
+  },
+  "questIDLow:4": -6625663983614695874,
+  "properties:10": {
+    "betterquesting:10": {
+      "snd_complete:8": "random.levelup",
+      "taskLogic:8": "AND",
+      "visibility:8": "NORMAL",
+      "isMain:1": 0,
+      "simultaneous:1": 0,
+      "icon:10": {
+        "id:8": "terrafirmacraft:item.Wooden Bucket Milk",
+        "Count:3": 1,
+        "tag:10": {
+          "foodWeight:5": 20.0,
+          "foodDecay:5": 0.0,
+          "decayTimer:3": 982
+        },
+        "Damage:2": 0,
+        "OreDict:8": ""
+      },
+      "snd_update:8": "random.levelup",
+      "repeatTime:3": -1,
+      "globalShare:1": 0,
+      "questLogic:8": "AND",
+      "repeat_relative:1": 1,
+      "name:8": "Dairy",
+      "lockedProgress:1": 0,
+      "autoClaim:1": 0,
+      "isSilent:1": 0,
+      "desc:8": "Dairy is not neccesary for survival; However, the calcium found within milk is essential to becoming the ultimate beefcake and absorbing hits in stride."
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "partialMatch:1": 1,
+      "autoConsume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 1,
+      "index:3": 0,
+      "consume:1": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "id:8": "terrafirmacraft:item.Wooden Bucket Milk",
+          "Count:3": 1,
+          "tag:10": {
+            "foodWeight:5": 20.0,
+            "foodDecay:5": 0.0,
+            "decayTimer:3": 982
+          },
+          "Damage:2": 0,
+          "OreDict:8": ""
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  },
+  "rewards:9": {
+    "0:10": {
+      "rewardID:8": "bq_standard:item",
+      "index:3": 0,
+      "rewards:9": {
+        "0:10": {
+          "id:8": "terrafirmacraft:item.Cheese",
+          "Count:3": 1,
+          "tag:10": {
+            "foodWeight:5": 20.0,
+            "foodDecay:5": -23.3902,
+            "decayTimer:3": 1099
+          },
+          "Damage:2": 0,
+          "OreDict:8": ""
+        }
+      }
+    }
+  }
+}

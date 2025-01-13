@@ -1,0 +1,19 @@
+{
+  "questLineIDLow:4": -6804383294622634718,
+  "questLineIDHigh:4": -3467868068718755245,
+  "properties:10": {
+    "betterquesting:10": {
+      "visibility:8": "NORMAL",
+      "name:8": "Black gold",
+      "icon:10": {
+        "id:8": "minecraft:book",
+        "Count:3": 1,
+        "Damage:2": 0,
+        "OreDict:8": ""
+      },
+      "bg_image:8": "",
+      "bg_size:3": 256,
+      "desc:8": "Through Crafting to the Stars"
+    }
+  }
+}

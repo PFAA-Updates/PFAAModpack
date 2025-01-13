@@ -1,0 +1,982 @@
+### Quest Lines ###
+
+
+## Quest Line: Solar system survey
+betterquesting.questline.oDVEXN8EQPa0koCFafIGzA.name=Solar system survey
+betterquesting.questline.oDVEXN8EQPa0koCFafIGzA.desc=Unnamed
+
+# Quest: Kimberlite
+betterquesting.quest.4bL0np_tQgCD3xqjG2Swcg.name=Kimberlite
+betterquesting.quest.4bL0np_tQgCD3xqjG2Swcg.desc=Kimberlite, more commonly known as diamonds, are very useful for industrial application due to their extreme hardness. Kimberlite veins can be found in Gabbro, Basalt and Granite.
+
+# Quest: Gems
+betterquesting.quest.7qONj9fOT5-FIr4PDyidxQ.name=Gems
+betterquesting.quest.7qONj9fOT5-FIr4PDyidxQ.desc=Gems hold unique material properties which make them useful for advanced industrial machiner and specialized electronics.
+
+# Quest: Graphite
+betterquesting.quest.Hnrgr8n6QFuLwstq9iIUtQ.name=Graphite
+betterquesting.quest.Hnrgr8n6QFuLwstq9iIUtQ.desc=Graphite, made from carbon, is a useful mineral for industrial endeavours. It is required for fire clay, which is used for metalworking. It can be found in Quartzite, Marble, Gneiss and Schist.
+
+# Quest: A fanciful place
+betterquesting.quest.Ik0H3HRYS9mqKVqqKeyGag.name=A fanciful place
+betterquesting.quest.Ik0H3HRYS9mqKVqqKeyGag.desc=Space is the final frontier, and there seems to be something novel about the material out and about the stars.
+
+# Quest: Microcline
+betterquesting.quest.JW4HKA6RQ_GA_HTmVt4SPw.name=Microcline
+betterquesting.quest.JW4HKA6RQ_GA_HTmVt4SPw.desc=Microcline can be processed into potassium feldspar, which is then used in making industrial grade ceramic vessels. It is generated in all igneous rocks.
+
+# Quest: Stibnite
+betterquesting.quest.KgBod7N1Tv66eAbzo4yyRw.name=Stibnite
+betterquesting.quest.KgBod7N1Tv66eAbzo4yyRw.desc=Stibnite is a source of antimony. It is generated in Igneous Intrusive rocks.
+
+# Quest: Basic ore generation
+betterquesting.quest.LUOs5uI_Q-O-DtunwGulTA.name=Basic ore generation
+betterquesting.quest.LUOs5uI_Q-O-DtunwGulTA.desc=Unless specified, all Terrafirmacraft ores are generated in their default rock layers with slighly higher chance than vanilla TFC. Please refer to the TFC wiki for more information.
+
+# Quest: Cryolite
+betterquesting.quest.LsOBvMGySTa_vIWbMV4ucQ.name=Cryolite
+betterquesting.quest.LsOBvMGySTa_vIWbMV4ucQ.desc=One of the two redstone bearing materials. Contains trace quantities of glowstone. It is found in Granite and Slate.
+
+# Quest: Tritanium
+betterquesting.quest.ON-NwjMZQlCEL9tQBESU2g.name=Tritanium
+betterquesting.quest.ON-NwjMZQlCEL9tQBESU2g.desc=The ultimate material for advanced matter manipulation devices, also a good material for starship hulls. It can be found on a cold planet with extreme mountains.
+
+# Quest: The others?
+betterquesting.quest.PpmUmtL-RH6VYXIYzUP0bA.name=The others?
+betterquesting.quest.PpmUmtL-RH6VYXIYzUP0bA.desc=No Description
+
+# Quest: Garnierite
+betterquesting.quest.SbCU-RMcQ2m86nv-NUSy9A.name=Garnierite
+betterquesting.quest.SbCU-RMcQ2m86nv-NUSy9A.desc=Garnierite is a source of nickel, which is needed for industrialization. Garnierite can be found in Gabbro and Schist.
+
+# Quest: Datolite
+betterquesting.quest.TQeBoNO0Tqqydh4CO4KwJg.name=Datolite
+betterquesting.quest.TQeBoNO0Tqqydh4CO4KwJg.desc=Datolite is a source of boron and a minor source of SiO2. It is generated in Basalt and Gabbro rocks.
+
+# Quest: A miscalculation in skill
+betterquesting.quest.VYFowrZaTveyF1XzIbWx6Q.name=A miscalculation in skill
+betterquesting.quest.VYFowrZaTveyF1XzIbWx6Q.desc=Condolences bozo.
+
+# Quest: Natural Dilithium Crystals
+betterquesting.quest.XOyWdEdOQk2jqCM90EQTxQ.name=Natural Dilithium Crystals
+betterquesting.quest.XOyWdEdOQk2jqCM90EQTxQ.desc=For some tasks artifical dilithium crystals are not sufficient. Dilithium ore can be found on a dry planet with extreme mountains in proximity to lava.
+
+# Quest: Fire clay
+betterquesting.quest.aIShG0zWQXaUom35gygVjA.name=Fire clay
+betterquesting.quest.aIShG0zWQXaUom35gygVjA.desc=Fire clay is an essential refractory material. In order to create it you need graphite and kaolinite (see Solar System Survey).
+
+# Quest: Rutile
+betterquesting.quest.ajOXtimAR4i0Lu5AGRDP-w.name=Rutile
+betterquesting.quest.ajOXtimAR4i0Lu5AGRDP-w.desc=Rutile is your major source of titanium. It is generated on the moon of your base planet.
+
+# Quest: Pitchblende
+betterquesting.quest.dj948iBXRcGUmOvj-XuvFA.name=Pitchblende
+betterquesting.quest.dj948iBXRcGUmOvj-XuvFA.desc=Pitchblende is the only source of uranium, the foundation of nuclear power. It is generated in Granite and Diorite.
+
+# Quest: Kaolinite
+betterquesting.quest.dt5_nur7SIiMn6fKaq0Pmw.name=Kaolinite
+betterquesting.quest.dt5_nur7SIiMn6fKaq0Pmw.desc=Kaolinite is a silicate mineral useful for industry. It is required for fireclay, which is used for metalworking. It can be found in Sedimentary rocks.
+
+# Quest: Bischofite
+betterquesting.quest.h4KSz29ZQJKj6UVK_X2Piw.name=Bischofite
+betterquesting.quest.h4KSz29ZQJKj6UVK_X2Piw.desc=Bischofite is you major source of magnesium, which is used mainly in titanium refining. It is generated in Sedimentary rocks.
+
+# Quest: Certus Quartz
+betterquesting.quest.jYHOtM4PQjGSv4JhkvQ5eA.name=Certus Quartz
+betterquesting.quest.jYHOtM4PQjGSv4JhkvQ5eA.desc=Certus Quartz is a mysterious crystalline mineral found on the moon. It has the remarkable ability of being able to store vast amounts of energy and information. In very rare cases the crystal is already charged with energy.
+
+# Quest: Important
+betterquesting.quest.mESbi_sWSQOWTL2AIdVuVw.name=Important
+betterquesting.quest.mESbi_sWSQOWTL2AIdVuVw.desc=Press "E" to open the menu and press the book on the left side of the GUI, by your armor slots. It contains a lot of vital information for survival and progression, really! It even has great in-game images to show you exactly what to do.
+
+# Quest: Heavy Metals
+betterquesting.quest.sYxqNxTmQGmWbyur8tihng.name=Heavy Metals
+betterquesting.quest.sYxqNxTmQGmWbyur8tihng.desc=While their use varies over time and can sometimes be niche, finding a good supply of these can save you a lot of time later on.
+
+# Quest: Bauxite
+betterquesting.quest.syIhNFDISJOOpg69hs0LNQ.name=Bauxite
+betterquesting.quest.syIhNFDISJOOpg69hs0LNQ.desc=Bauxite is the source of aluminium and a minor source of titanium. It can be found in Sedimentary and Igneous Extrusive rocks.
+
+# Quest: Beryl
+betterquesting.quest.tH9NvyPtQvaQike9NWf4Hw.name=Beryl
+betterquesting.quest.tH9NvyPtQvaQike9NWf4Hw.desc=Beryl is the major source of beryllium, which is used in some advanced components. It is generated in Granite, Quartzite, and Schist.
+
+# Quest: Trona
+betterquesting.quest.vZUcd56GTWeLiWpx25M5hA.name=Trona
+betterquesting.quest.vZUcd56GTWeLiWpx25M5hA.desc=Trona is a cheap source of Sodium Hydroxide, a major industrial ingredient. It is generated in Sedimentary rocks.
+
+# Quest: Redstone
+betterquesting.quest.vkkXAWm4RRm0JrpqU30AYg.name=Redstone
+betterquesting.quest.vkkXAWm4RRm0JrpqU30AYg.desc=Redstone is a must for crude electromechanical equipment.
+
+# Quest: Cinnabar
+betterquesting.quest.zIpsK6FHR5-xO-d_8bUvGw.name=Cinnabar
+betterquesting.quest.zIpsK6FHR5-xO-d_8bUvGw.desc=One of the two redstone bearing materials. Contains trace quantities of mercury. It can be found in Igneous Extrusive rocks, as well as Quartzite and Schist.
+
+# Quest: Hubnerite
+betterquesting.quest.zdwfjAcJTjuQRqFCiRObjw.name=Hubnerite
+betterquesting.quest.zdwfjAcJTjuQRqFCiRObjw.desc=Hubnerite is an ore in the wolframite family. This is your only source of tungsten. It can be found on a mars-like planet.
+
+
+## Quest Line: Culinary adventures
+betterquesting.questline.c6_8dCJVQqawYxk25DS7qg.name=Culinary adventures
+betterquesting.questline.c6_8dCJVQqawYxk25DS7qg.desc=No description
+
+# Quest: Ice Cellar
+betterquesting.quest.-W-R5i7pT4WQ-RbHJpf5xQ.name=Ice Cellar
+betterquesting.quest.-W-R5i7pT4WQ-RbHJpf5xQ.desc=Food decays quickly in warm temperatures. In order to industrialize, food will need to be preserved to decrease the amount of hunting and gathering necessary. Ice Cellars are a great way of doing this. By constructing the Cellar multiblock, ice can be placed inside to lower the temperature and prevent decay of food. Ice can be collected with a metal ice saw.
+
+# Quest: Sandwiches
+betterquesting.quest.0YvNn_o5Sb28z564ReFpOg.name=Sandwiches
+betterquesting.quest.0YvNn_o5Sb28z564ReFpOg.desc=Over the last few centuries researches have come to the conclusion that sandwiches are by far the best method of ingesting food. They are fast to consume, can be packed in a lunchbox and can be made with all the necessary nutrients to survive. Sandwiches can be made on a prep table.
+
+# Quest: Dairy
+betterquesting.quest.2UnCtLyNSRekDOm2D4vmPg.name=Dairy
+betterquesting.quest.2UnCtLyNSRekDOm2D4vmPg.desc=Dairy is not neccesary for survival; However, the calcium found within milk is essential to becoming the ultimate beefcake and absorbing hits in stride.
+
+# Quest: Foodpaste Slab Conversion
+betterquesting.quest.2wVbW1PuTSaDNg_Dv04tcw.name=Foodpaste Slab Conversion
+betterquesting.quest.2wVbW1PuTSaDNg_Dv04tcw.desc=By adding moisture to a solid foodbar it becomes edible. Repeatable quest.
+
+# Quest: Lunchboxes
+betterquesting.quest.4SIV-fsARQq1jV0MOjBr0Q.name=Lunchboxes
+betterquesting.quest.4SIV-fsARQq1jV0MOjBr0Q.desc=Lunchboxes are a great way to store food. They can be eaten from directly but also prevent food decay similar to a ceramic vessel.
+
+# Quest: Seed supply bag
+betterquesting.quest.6xnWn-p3T_udyORpZ2OKJQ.name=Seed supply bag
+betterquesting.quest.6xnWn-p3T_udyORpZ2OKJQ.desc=The escape pod had this small bag of seeds. I hope this will help me survive when I have a stable shelter.
+
+# Quest: Berries
+betterquesting.quest.8Ei55TbZT2GIWot4fKtCLA.name=Berries
+betterquesting.quest.8Ei55TbZT2GIWot4fKtCLA.desc=Berries are plentiful and a good hold-over food to snack on before crops are ready for harvest.
+
+# Quest: Portable storage
+betterquesting.quest.9ZPUE-62QwmadXoMudqp2A.name=Portable storage
+betterquesting.quest.9ZPUE-62QwmadXoMudqp2A.desc=Ceramic vessels are a good way to store food and prevent it from decaying too quickly.
+
+# Quest: A durable drinking vessel
+betterquesting.quest.ANQbcgVLT1WkPotf9fzyAw.name=A durable drinking vessel
+betterquesting.quest.ANQbcgVLT1WkPotf9fzyAw.desc=The leather water sac contains multiple sips of water and is very durable, a clear improvement over delicate ceramic vessels
+
+# Quest: Long Grains
+betterquesting.quest.FRSjQaxSQVeq-AVSizPLdw.name=Long Grains
+betterquesting.quest.FRSjQaxSQVeq-AVSizPLdw.desc=Long grains make for a satisfying meal especially when made into bread.
+
+# Quest: Fruit Trees
+betterquesting.quest.J8BK6WV0R2S1jJ7Gl3kzKA.name=Fruit Trees
+betterquesting.quest.J8BK6WV0R2S1jJ7Gl3kzKA.desc=Fruit trees can serve as a stable source of fruits which can yield in varying seasons depending on the fruit. In order to yield a sapplying cut the portions of the tree which fall just before the leaves.
+
+# Quest: Grains
+betterquesting.quest.JzUcNYsbQa2oIxla9jy2Nw.name=Grains
+betterquesting.quest.JzUcNYsbQa2oIxla9jy2Nw.desc=One of the five essential food groups. Use a quern and handstone to extract the grains from your crops, then mix with water and cook to perfection.
+
+# Quest: Soy
+betterquesting.quest.NDC1rTy6Sqqs5odlKRvy8A.name=Soy
+betterquesting.quest.NDC1rTy6Sqqs5odlKRvy8A.desc=While animals provide plenty of protein, it unfortunately takes a lot of effort to hunt and domesticate them. To support industrialization a plant protein substitute like Soybeans would help. Soybeans can also be processed into cheese with some difficulty.
+
+# Quest: Deep Freezing
+betterquesting.quest.NYnZMcltS4KQ--4ZDRo6zA.name=Deep Freezing
+betterquesting.quest.NYnZMcltS4KQ--4ZDRo6zA.desc=By deep freezing food all decay can be prevented, but a freezer requires complicated technology to function.
+
+# Quest: Protein
+betterquesting.quest.XdeKs97NS9q7luVLxad4QA.name=Protein
+betterquesting.quest.XdeKs97NS9q7luVLxad4QA.desc=One of the five essential food groups.
+
+# Quest: Refrigeration
+betterquesting.quest.Z8Ir20zLTYe1EWPK_OdAkQ.name=Refrigeration
+betterquesting.quest.Z8Ir20zLTYe1EWPK_OdAkQ.desc=A more modern way of cooling food is with a powered refrigerator, which does not need ice to function.
+
+# Quest: Animals
+betterquesting.quest.bUwG11I9TNOYLnt-a2ZlXQ.name=Animals
+betterquesting.quest.bUwG11I9TNOYLnt-a2ZlXQ.desc=Animals are a great source of protein. Luckily this planet seems to have animals which can be hunted or domesticated.
+
+# Quest: Cheese
+betterquesting.quest.hOBzipvyTSW-2gqH5_efNQ.name=Cheese
+betterquesting.quest.hOBzipvyTSW-2gqH5_efNQ.desc=Cheese is the best way of consuming dairy. It can be made from milk and vinegar. There is also a method of making cheese from soybeans.
+
+# Quest: Short Grains
+betterquesting.quest.hu7HCAXgQ7exV0-iFWIclw.name=Short Grains
+betterquesting.quest.hu7HCAXgQ7exV0-iFWIclw.desc=Short grains, like long can be made into bread, or eaten after shucking.
+
+# Quest: Fruits
+betterquesting.quest.tq0gbh6ZRb2KDWhoD5alpw.name=Fruits
+betterquesting.quest.tq0gbh6ZRb2KDWhoD5alpw.desc=One of the five essential food groups.
+
+# Quest: Portable drinking water
+betterquesting.quest.vfKedyv3Q5SWzvWeyJTQDw.name=Portable drinking water
+betterquesting.quest.vfKedyv3Q5SWzvWeyJTQDw.desc=Having some water on the go, especially when caving can help extend the valuable time you can perform tasks. Being dehydrated leads to fatigue and eventual death. Right click the bottom of potable water bodies to drink by hand, or do the same with a jug to collect some water for later.
+
+# Quest: Foodpaste Production
+betterquesting.quest.vgmf3zGZRdK4V851ESu5HA.name=Foodpaste Production
+betterquesting.quest.vgmf3zGZRdK4V851ESu5HA.desc=Modern technology has provided us with a way of turning food into foodpaste bars, which contain all necessary nutrients while not decaying. This process requires a high-tech blender.
+
+# Quest: High-tech drinking vessel
+betterquesting.quest.wi6xYU4JTUWjT2MXL3CUrQ.name=High-tech drinking vessel
+betterquesting.quest.wi6xYU4JTUWjT2MXL3CUrQ.desc=With advanced technology a drinking vessel which automatically refills using condensation and solar power can be constructed.
+
+
+## Quest Line: No stone unturned
+betterquesting.questline.nY5IZ59VTKG_Q1pXUj_2IA.name=No stone unturned
+betterquesting.questline.nY5IZ59VTKG_Q1pXUj_2IA.desc=No description
+
+# Quest: The best item in the game
+betterquesting.quest.-7KJ4Fn3SW2fsEdb3K9lyg.name=The best item in the game
+betterquesting.quest.-7KJ4Fn3SW2fsEdb3K9lyg.desc=While yes it is weird that pocket dimension technology is only locked behind creosote oil is weird. And yes, adding more items to a crate can cause it to stack with another when in theory it should make the stackability reduce, but are you really gonna complain about a blessing this great?
+
+# Quest: Emergency landing
+betterquesting.quest.2ZXkf11VQTqyFVNbNXI0ug.name=Emergency landing
+betterquesting.quest.2ZXkf11VQTqyFVNbNXI0ug.desc=Before I could realize what's happening, I'm kicked into a escape capsule with many others and blast-launched from the Aquataine. While I tries to recover from hibernation sickness, the pod shoots through the sky of this unfamiliar planet. The landing was hard, but most of us made it. We are unprepard, unequipped, but at least we are alive.
+
+# Quest: Ironic upgrade
+betterquesting.quest.31g5tn0hTGeyLUM6Rwfdkw.name=Ironic upgrade
+betterquesting.quest.31g5tn0hTGeyLUM6Rwfdkw.desc=While iron is more difficult to smelt and process, iron tools are much more durable than copper based ones.
+
+# Quest: Coal Coke
+betterquesting.quest.3z_-hTV_QV6djlVil4dQzQ.name=Coal Coke
+betterquesting.quest.3z_-hTV_QV6djlVil4dQzQ.desc=Yes the recipe uses vanilla coal. /shrug
+
+# Quest: Dawn of a new era
+betterquesting.quest.48xa864XQJ2rkrUhJoAjdw.name=Dawn of a new era
+betterquesting.quest.48xa864XQJ2rkrUhJoAjdw.desc=After all the struggle of survival, we have made it! With steel, we can now create some fundamental machines and decrease all the hand work significantly.
+
+# Quest: Blasting time
+betterquesting.quest.5bIFVzqiROuLR0dqro77Eg.name=Blasting time
+betterquesting.quest.5bIFVzqiROuLR0dqro77Eg.desc=Iron is good, but steel is even better. Create by placing the 4 bricks in a cross shape with the center missing. Then on the outer edge place the wrought iron sheets. Then place the blast furnace below the center. Requires ore and flux to work.
+
+# Quest: Alternative for ores
+betterquesting.quest.6g61l8EUQAitudLiNaVtxg.name=Alternative for ores
+betterquesting.quest.6g61l8EUQAitudLiNaVtxg.desc=Looking for ores can be difficult, but with a sluice I can gather the trace amount of ores in gravel.
+
+# Quest: Getting copper
+betterquesting.quest.EMg6DNbFQAGcP-ZSAKefJg.name=Getting copper
+betterquesting.quest.EMg6DNbFQAGcP-ZSAKefJg.desc=Although not very durable, copper is the simplest metal to get started with. Making copper tools is straightforward; just put the ores in a ceramic vessel and smelt them in a pit kiln, then the tools can be cast using baked ceramic molds.
+
+# Quest: Flux
+betterquesting.quest.Eil0XWYPRu-0rMFavXUUiQ.name=Flux
+betterquesting.quest.Eil0XWYPRu-0rMFavXUUiQ.desc=Flux is a material which is used when welding together ingots of metal. Stones which can be crushed into flux include: Dolomite, Marble, Limestone, and Chalk.
+
+# Quest: Freeing the hand
+betterquesting.quest.Gztdk-lMT3q8GDvtLQH-NA.name=Freeing the hand
+betterquesting.quest.Gztdk-lMT3q8GDvtLQH-NA.desc=With the help of steam, I can now concentrate on forging.
+
+# Quest: Improved charcoal production
+betterquesting.quest.H3ZQTEKTSU669JjgaQIzVQ.name=Improved charcoal production
+betterquesting.quest.H3ZQTEKTSU669JjgaQIzVQ.desc=After obtaining some fire clay, it's a good idea to upgrade our charcoal production. A small amount of iron is needed to form the oven.
+
+# Quest: Wrought Iron Anvil
+betterquesting.quest.ITSEkTlNQBK9YIvAWdYxvA.name=Wrought Iron Anvil
+betterquesting.quest.ITSEkTlNQBK9YIvAWdYxvA.desc=Tools built to last and from the most plentiful of all the materials.
+
+# Quest: The engineer is engi-here
+betterquesting.quest.JYswgpyiTWacvT2UDpwdOQ.name=The engineer is engi-here
+betterquesting.quest.JYswgpyiTWacvT2UDpwdOQ.desc=The implements neccesary for forming multi-block structures from Immersive Engineering. You will find them VERY helpful.
+
+# Quest: Struggle to survive
+betterquesting.quest.JhSDwGkTS5-PpJnIIpBoNA.name=Struggle to survive
+betterquesting.quest.JhSDwGkTS5-PpJnIIpBoNA.desc=What I'd imagined to be a barren world was in fact...filled with life. I need to secure a food source first, and I need a tool to do so.
+
+# Quest: Mechanical Power
+betterquesting.quest.QQTbAa4DQm-3gJWHrNuvQA.name=Mechanical Power
+betterquesting.quest.QQTbAa4DQm-3gJWHrNuvQA.desc=The earliest form of automation. Requires redstone.
+
+# Quest: Hammering time
+betterquesting.quest.T1925uvpQCy9YFH4NwUUhw.name=Hammering time
+betterquesting.quest.T1925uvpQCy9YFH4NwUUhw.desc=Copper tools can be cast directy, but their durability is too low for my needs. In order to make something better, I need to craft a copper anvil first. Note: igneous rocks can be used as a stone anvil to weld copper ingots.
+
+# Quest: Alloy Anvil
+betterquesting.quest.TGVnUTLXTmeKECgU5q2mmA.name=Alloy Anvil
+betterquesting.quest.TGVnUTLXTmeKECgU5q2mmA.desc=To advance we need to melt down some metals to make a better anvil. Unfortunately we can't melt iron so we will need to alloy two metals together to achieve a stronger anvil.
+
+# Quest: Iron
+betterquesting.quest.X5mby-JjSjupYbYxxwCGuA.name=Iron
+betterquesting.quest.X5mby-JjSjupYbYxxwCGuA.desc=Finally something more durable than the primitive copper. It also has a higher heat resistance making it suitable for high temperature applications.
+
+# Quest: Melty Bin
+betterquesting.quest.hfc4qlYFQNiBFJdckrcjIg.name=Melty Bin
+betterquesting.quest.hfc4qlYFQNiBFJdckrcjIg.desc=A much needed improvement over clay vessels for melting ores, and alloying metals. Place directly over a forge and ignite the forge to heat it up slowly. Using ingot molds get metal out.
+
+# Quest: Panning for copper
+betterquesting.quest.jpH7C4a-TUmG67dH6XiZRA.name=Panning for copper
+betterquesting.quest.jpH7C4a-TUmG67dH6XiZRA.desc=You can knap clay into bowls, cook them in a pit kiln, and then craft them into a gold pan. The gold pan will deplete the resources in a small area with use. To use it first click on a block of sand or gravel, and then click onto the top of a block with water flowing over it until you have sifted through all of the loose material.
+
+# Quest: Cutting Wood
+betterquesting.quest.lZo03rBSSmivB5-jRLWmhA.name=Cutting Wood
+betterquesting.quest.lZo03rBSSmivB5-jRLWmhA.desc=In order to survive you must be able to form wood into planks and make a crating bench. Then you can make simple wooden objects to modify your environment. Go ahead and make some blocks in order to build a house.
+
+# Quest: Better pottery
+betterquesting.quest.mlmdy-GqTsGUkCKDw2iypA.name=Better pottery
+betterquesting.quest.mlmdy-GqTsGUkCKDw2iypA.desc=It is definitely not a good idea to smelt all pottery in pit klins. Completing this task will allow for simpler and more efficient pottery creation.
+
+# Quest: Getting Bronze
+betterquesting.quest.nclx_446T4uvH2_k2UWbPg.name=Getting Bronze
+betterquesting.quest.nclx_446T4uvH2_k2UWbPg.desc=If you game just a lil' harder then you can skip past copper tools.
+
+# Quest: A better fuel
+betterquesting.quest.o4l05cnmSI6TCT9vfaWKXQ.name=A better fuel
+betterquesting.quest.o4l05cnmSI6TCT9vfaWKXQ.desc=Wood is a easily obtainable fuel, but when to use it in metallurgy it needs to be smelted into charcoal to remove impurities. To form a burnpit shift+left click logs onto the ground to form piles, form a 3x3x3 cube of logs and surrounding it entirely wiht blocks except for one block of the top. Then drop a torch or use a firestarter until the pit is lit and then quickly cover the exposed block. Wait until the particles stop and open it up (roughly a day later).
+
+# Quest: Clay Molds
+betterquesting.quest.qLLnyzuERj2CxHUeFvYhDQ.name=Clay Molds
+betterquesting.quest.qLLnyzuERj2CxHUeFvYhDQ.desc=No Description
+
+# Quest: Forge
+betterquesting.quest.r47ffV0TSJu4HfTcJnnOTw.name=Forge
+betterquesting.quest.r47ffV0TSJu4HfTcJnnOTw.desc=The forge is an essential method of heating metals to aid in metalworking. It is formed by surronding an air block on the bottom and sides with cobblestone, stone, or any variety of bricks and then filling the air gap with 8 charcoal. Then use a firestarter on the charcoal until it lights.
+
+# Quest: Fire clay
+betterquesting.quest.u8wrzAKqRQOIDKn9ACpfrA.name=Fire clay
+betterquesting.quest.u8wrzAKqRQOIDKn9ACpfrA.desc=Fire clay is an essential refractory material. In order to create it you need graphite and kaolinite (see Solar System Survey).
+
+# Quest: Good clay
+betterquesting.quest.wn45aigrSCC1vvLy0CiOnw.name=Good clay
+betterquesting.quest.wn45aigrSCC1vvLy0CiOnw.desc=Stone tools are not hard to make, but they are too limited. I need to get my hands on some real tools. But before that, I need to find some clay to make essential ceramic vessels.
+
+
+## Quest Line: Roar of machines
+betterquesting.questline.bNw1ifcnREKzjlwffDCbdw.name=Roar of machines
+betterquesting.questline.bNw1ifcnREKzjlwffDCbdw.desc=No description
+
+# Quest: Down to dust
+betterquesting.quest.3bNNQHmfQ6uLOEsl7VtgpQ.name=Down to dust
+betterquesting.quest.3bNNQHmfQ6uLOEsl7VtgpQ.desc=By grinding ore and nuggets to fine dust, their processing efficiency can be increased significantly.
+
+# Quest: Forging with power
+betterquesting.quest.4uQvOjcCSQ6igBIBR_hhyA.name=Forging with power
+betterquesting.quest.4uQvOjcCSQ6igBIBR_hhyA.desc=With an ever-growing need for forging and smithing, maybe we can replace the coal fired forge with a more advanced powered one.
+
+# Quest: Crushing the ores
+betterquesting.quest.8EgGzlPwRn63fz3-ihjBZw.name=Crushing the ores
+betterquesting.quest.8EgGzlPwRn63fz3-ihjBZw.desc=Ores can be smelted better if they are crushed into fine grains.
+
+# Quest: Better than steel
+betterquesting.quest.AlPtHYeEQrGd5StgxaStGw.name=Better than steel
+betterquesting.quest.AlPtHYeEQrGd5StgxaStGw.desc=It's better than steel. Get some.
+
+# Quest: Material Processing
+betterquesting.quest.Az97BYVtTx2W8ivo09veog.name=Material Processing
+betterquesting.quest.Az97BYVtTx2W8ivo09veog.desc=It's time to get down to the brass tacks. If you want to make the most of your hard earned resources then you need to process them efficiently into products. Each of these subsequent quests will be a part of the puzzle of making efficient use of your limited resources.
+
+# Quest: Muffle furnace
+betterquesting.quest.DvK8MltgRJSAzWIIrwc7Bw.name=Muffle furnace
+betterquesting.quest.DvK8MltgRJSAzWIIrwc7Bw.desc=A basic device to heat up materials before further processing them. Also used to melt down a small amount of metals in a crucible.
+
+# Quest: Red Steel
+betterquesting.quest.EWoBme8LTFWdgeXsFgt_3A.name=Red Steel
+betterquesting.quest.EWoBme8LTFWdgeXsFgt_3A.desc=The more aggressive of the two steels, capable of storing water sources.
+
+# Quest: Compressor
+betterquesting.quest.Eyd67P95QT6RjB-SlD7LYA.name=Compressor
+betterquesting.quest.Eyd67P95QT6RjB-SlD7LYA.desc=The compressor is needed for making some compact materials and also for some convenience and automation recipes.
+
+# Quest: Steel
+betterquesting.quest.Fp9-hCtQQ_C7s1DpLLSudQ.name=Steel
+betterquesting.quest.Fp9-hCtQQ_C7s1DpLLSudQ.desc=After all the struggle of survival, we have made it! With steel, we can now create some fundamental machines and decrease all the hand work significantly.
+
+# Quest: Nature's gift
+betterquesting.quest.GNBMMBwfR1yWLEQtM7dNDA.name=Nature's gift
+betterquesting.quest.GNBMMBwfR1yWLEQtM7dNDA.desc=Rubber is produced from latex, which is in turn extracted from hevea tree. (check FTBU guide for instructions)
+
+# Quest: Industrial blasting
+betterquesting.quest.GWYREJ6PSVutGRBbtelBTw.name=Industrial blasting
+betterquesting.quest.GWYREJ6PSVutGRBbtelBTw.desc=With this enhanced industrial blast furnace, ores can be smelted with much higher efficiency.
+
+# Quest: Continuous mining operations 3
+betterquesting.quest.N1KKOUZiQveBlI77-IubMA.name=Continuous mining operations 3
+betterquesting.quest.N1KKOUZiQveBlI77-IubMA.desc=Watch out for the power usage!
+
+# Quest: Station stop
+betterquesting.quest.NegJqv06QLOSXc4BKEh4zg.name=Station stop
+betterquesting.quest.NegJqv06QLOSXc4BKEh4zg.desc=By using a locking track with an item loader or unloader adjacent, you can very easily add a stop on your track to load or unload items.
+
+# Quest: Crush Time
+betterquesting.quest.O_qkCI2zRhqtNX1TgyOhLA.name=Crush Time
+betterquesting.quest.O_qkCI2zRhqtNX1TgyOhLA.desc=With the need for metals increasing and harder materials on the radar its time for a better crusher.
+
+# Quest: Separation and calcination
+betterquesting.quest.QhSLfCyXRW-RRkaVcbXlrA.name=Separation and calcination
+betterquesting.quest.QhSLfCyXRW-RRkaVcbXlrA.desc=Natural ores often contains some impurities, and now we have a way to recover them.
+
+# Quest: Bottling Machine
+betterquesting.quest.QrKxx9uDReOQcnSXL3Nz5g.name=Bottling Machine
+betterquesting.quest.QrKxx9uDReOQcnSXL3Nz5g.desc=In order to more effectively treat materials and automatically manage creosote oil a bottling machine is neeeded.
+
+# Quest: Metal Former
+betterquesting.quest.S8gctoxfTA-eyuR9RwhUDw.name=Metal Former
+betterquesting.quest.S8gctoxfTA-eyuR9RwhUDw.desc=A very handy appliance which does a lot of the hard work of molding metals; However, it is sometimes not the most efficient way to do so.
+
+# Quest: Powerd by peat
+betterquesting.quest.STJ3odSLSeOUgQVGzTkMzw.name=Powerd by peat
+betterquesting.quest.STJ3odSLSeOUgQVGzTkMzw.desc=Peat can be found in humid regions in large quantities. Although the output is pretty low, a stack of peat can take a long time to use up.
+
+# Quest: Industrial cokery
+betterquesting.quest.U1C5HpDOShebuq13XXP-Cg.name=Industrial cokery
+betterquesting.quest.U1C5HpDOShebuq13XXP-Cg.desc=The ultimate solution for coke and charcoal production, at a cost
+
+# Quest: Steampunk
+betterquesting.quest.ULKpwMF1Q8-CvORJEd5eIQ.name=Steampunk
+betterquesting.quest.ULKpwMF1Q8-CvORJEd5eIQ.desc=The required machinery to convert coal or coke into power. Be wary, the railcraft turbine does not play nice, use the MV transformer from IC2 and IC2 wires to hook it up to any IE wires.
+
+# Quest: Stirling power
+betterquesting.quest.VWyy17CwRYGHz_HxfLgHOw.name=Stirling power
+betterquesting.quest.VWyy17CwRYGHz_HxfLgHOw.desc=Although not as efficient, these types of engines have a better output than the peat-fired ones.
+
+# Quest: Forging ahead
+betterquesting.quest.VkoI0gx-SNmEAfBZigWKPg.name=Forging ahead
+betterquesting.quest.VkoI0gx-SNmEAfBZigWKPg.desc=Free the hammer to work on more complex works. And the forge for getting metal to temperature precisely and quickly.
+
+# Quest: Ore transport
+betterquesting.quest.X6Y8a6_4RWazxZzPYwhjNw.name=Ore transport
+betterquesting.quest.X6Y8a6_4RWazxZzPYwhjNw.desc=By using rails and locomotives, ore collection at mines can be automated. 
+
+# Quest: Rolling steel
+betterquesting.quest.X7ZvBJIiSGCH0OLwhxw2Vw.name=Rolling steel
+betterquesting.quest.X7ZvBJIiSGCH0OLwhxw2Vw.desc=Another step of freeing my hands. Allows for the welding and forming of plates without needing to heat up the materials first.
+
+# Quest: Ore purification
+betterquesting.quest.Xq8ms9wJTiKo3GexcC7ttw.name=Ore purification
+betterquesting.quest.Xq8ms9wJTiKo3GexcC7ttw.desc=The first step in ore dust purification.
+
+# Quest: Water tank
+betterquesting.quest.ZUvVVyEXSbqo8D8YP_a_nQ.name=Water tank
+betterquesting.quest.ZUvVVyEXSbqo8D8YP_a_nQ.desc=Another way of collecting water is by using a water tank from Railcraft, which collects ambient water and rainwater and purifies it. It is suitable for tasks that need small amounts of water.
+
+# Quest: Continuous mining operations
+betterquesting.quest._3-4iLs4Qhy8ybWtavCruw.name=Continuous mining operations
+betterquesting.quest._3-4iLs4Qhy8ybWtavCruw.desc=With the help of this tool, we can extract ores from clusters continuously. But some infrastructure will be necessary for it to work efficiently.
+
+# Quest: On the belts 1
+betterquesting.quest.bhBWkn4kTwyJMBoggC_wqQ.name=On the belts 1
+betterquesting.quest.bhBWkn4kTwyJMBoggC_wqQ.desc=Now we have a way of moving things around without using our hands: belts. These belts are also suitable for automation.
+
+# Quest: The juice
+betterquesting.quest.cwmEbeXtSbO_pUIaaku5rA.name=The juice
+betterquesting.quest.cwmEbeXtSbO_pUIaaku5rA.desc=Now with the power of electricity we can finally leave some of the hard work to machines.
+
+# Quest: Locomotion
+betterquesting.quest.cylMN9UUS0ybfyGyAhRB5g.name=Locomotion
+betterquesting.quest.cylMN9UUS0ybfyGyAhRB5g.desc=The locomotive is the main part of a train. It burns solid fuel and needs water. Water can be provided with a liquid loader and solid fuel through an item loader. A train needs to be chunkloaded with an anchor cart in order to do long-distance trips. The anchor cart can take coal as fuel.
+
+# Quest: Continuous mining operations 2
+betterquesting.quest.dlo1Ze4TROuZ1Nniwl_wug.name=Continuous mining operations 2
+betterquesting.quest.dlo1Ze4TROuZ1Nniwl_wug.desc=Better tools are always welcome! 
+
+# Quest: Putting it all together
+betterquesting.quest.e4C-1FB0RQSLY6-trirylg.name=Putting it all together
+betterquesting.quest.e4C-1FB0RQSLY6-trirylg.desc=Mining coal, processing it into coke, compressing that coke into blocks and burning the result along with the creosote we get a stable stream of combustable material. Put all of that into a power plant and you have a steady source of power. Be aware though that you need a sufficiently efficient boiler setup, which should be from railcraft.
+
+# Quest: Making wires
+betterquesting.quest.iuTIL1sjSIunQgj1iRyYlw.name=Making wires
+betterquesting.quest.iuTIL1sjSIunQgj1iRyYlw.desc=You didn't expect that an ingot could just be hammered into a wire, right? Well in any case you need a draw bench and a sufficient draw plate.
+
+# Quest: Metal Pressing
+betterquesting.quest.ixzXTQrxRTGHWCgGB_CNhg.name=Metal Pressing
+betterquesting.quest.ixzXTQrxRTGHWCgGB_CNhg.desc=The metal press from immersive engineering is a solid piece of kit which grants for a low energy cost easier and more efficient recipes for making plates, gears, rods, and especially wires.
+
+# Quest: IHL stands for...
+betterquesting.quest.j9L5QZVkQIioXd96zDPxJA.name=IHL stands for...
+betterquesting.quest.j9L5QZVkQIioXd96zDPxJA.desc=I Hate Life. Creating advanced machines will be complicated, so we need a worktable and a bunch of tools.
+
+# Quest: Arc Furnace
+betterquesting.quest.jcTqxWNcRnWxcrcZvQgiWQ.name=Arc Furnace
+betterquesting.quest.jcTqxWNcRnWxcrcZvQgiWQ.desc=In order to achieve improved material processing and to use these graphite rods we need some real heavy duty machinery.
+
+# Quest: Industrial engineering
+betterquesting.quest.mYF1xHNER6-X8mWPdMhVEA.name=Industrial engineering
+betterquesting.quest.mYF1xHNER6-X8mWPdMhVEA.desc=For heavier machines
+
+# Quest: Steam!
+betterquesting.quest.mzaQ9WNpR129Lj-BEJfIvg.name=Steam!
+betterquesting.quest.mzaQ9WNpR129Lj-BEJfIvg.desc=Now, some real power.
+
+# Quest: Coal power
+betterquesting.quest.mzsdtYsSQTGZGxbdxH_8Bg.name=Coal power
+betterquesting.quest.mzsdtYsSQTGZGxbdxH_8Bg.desc=Coal mining is the key to powering the early industry. Best to amass some fuel when demand is low so you can run for longer towards sustainable power generation.
+
+# Quest: Blue steel
+betterquesting.quest.neUn7PtIRWuRCzJOi5KnGQ.name=Blue steel
+betterquesting.quest.neUn7PtIRWuRCzJOi5KnGQ.desc=The more calm and concerted of the two steels. Capable of carying lava sources.
+
+# Quest: Induction smelting
+betterquesting.quest.rp7gZeLgQh2r85Z5k8cs8g.name=Induction smelting
+betterquesting.quest.rp7gZeLgQh2r85Z5k8cs8g.desc=A powerd crucible for alloy making and ore smelting.
+
+# Quest: Water purification
+betterquesting.quest.soUCLutpToqzj_Gv9I8uWA.name=Water purification
+betterquesting.quest.soUCLutpToqzj_Gv9I8uWA.desc=The fresh water in the ponds and lakes is not quite suitable to be used in machines. I need this device to purify it.
+
+# Quest: Long distance wiring
+betterquesting.quest.u455mEbARTu7LHmUatA2FA.name=Long distance wiring
+betterquesting.quest.u455mEbARTu7LHmUatA2FA.desc=Through the use of MV or HV wiring power can be routed across long distances to power remote mining sites.
+
+# Quest: Web of power
+betterquesting.quest.vAs3GU4iT-2HoecGFr3fjQ.name=Web of power
+betterquesting.quest.vAs3GU4iT-2HoecGFr3fjQ.desc=No longer do I need to stick engines directly to machines, power can now flow through a web made of copper.
+
+# Quest: The power sink
+betterquesting.quest.w6Q6RI9oTVq1z1eBBOWTqw.name=The power sink
+betterquesting.quest.w6Q6RI9oTVq1z1eBBOWTqw.desc=With our resource and energy production stablizing, it's time to create something really handy - the electrical arc furnace. 
+
+# Quest: On the belts 2
+betterquesting.quest.yT-xMQ_mSUC5aS99QANt9g.name=On the belts 2
+betterquesting.quest.yT-xMQ_mSUC5aS99QANt9g.desc=Now we have a way of moving things around without using our hands: belts. This belt type is suitable for point to point transportation and sorting.
+
+# Quest: Heavy machinery
+betterquesting.quest.zzR5j73-SxCvzxes2UJbWw.name=Heavy machinery
+betterquesting.quest.zzR5j73-SxCvzxes2UJbWw.desc=We have established a foothold on this planet by regaining some industrial capabilities. While the native creatures are still a threat, we can now focus on some more advanced projects, like and electrical network and a material processing chain.
+
+
+## Quest Line: I hate life
+betterquesting.questline.d6Cy6rULSdyYWbuXJ-BPKw.name=I hate life
+betterquesting.questline.d6Cy6rULSdyYWbuXJ-BPKw.desc=No description
+
+# Quest: Even thinner
+betterquesting.quest.-dqmRrYNST687NbeyuF8rg.name=Even thinner
+betterquesting.quest.-dqmRrYNST687NbeyuF8rg.desc=This machine is used to make metal foil.
+
+# Quest: Industrial electrolyzing
+betterquesting.quest.0DLBlyP3TJyjiG2jKpy0wA.name=Industrial electrolyzing
+betterquesting.quest.0DLBlyP3TJyjiG2jKpy0wA.desc=In order to facilitate the further processing of material electrolysis is neccesary.
+
+# Quest: Evaporation
+betterquesting.quest.0Y1zUwOPRRWMjMBO0WUjPQ.name=Evaporation
+betterquesting.quest.0Y1zUwOPRRWMjMBO0WUjPQ.desc=Evaporation can be a useful process as it allows solvents to be removed from a solution leaving a mostly pure result.
+
+# Quest: Lathe
+betterquesting.quest.10piEd1fS1OYqhxeDSwBqw.name=Lathe
+betterquesting.quest.10piEd1fS1OYqhxeDSwBqw.desc=An addition to the iron workbench, now I can shape materials with more precision.
+
+# Quest: Magnesium
+betterquesting.quest.2fHyShmtQWK3nZq2yjTNtA.name=Magnesium
+betterquesting.quest.2fHyShmtQWK3nZq2yjTNtA.desc=Like aluminium, magnesium is highly reactive and needs to be obtained via electrolysis with molten NaCl as electrolyte.
+
+# Quest: Rolling rubber
+betterquesting.quest.2oAnzmMaRUKh_FwQlTuzTA.name=Rolling rubber
+betterquesting.quest.2oAnzmMaRUKh_FwQlTuzTA.desc=It's rolled rubber from your rolling machine.
+
+# Quest: Basic chemistry
+betterquesting.quest.55y8b2ZIRrWPIpPiWdgPbg.name=Basic chemistry
+betterquesting.quest.55y8b2ZIRrWPIpPiWdgPbg.desc=Some simple reactions can be carried out in this vessel, like the vulcanization of rubber.
+
+# Quest: First bucket of oil
+betterquesting.quest.7SPxhZDXSUKUkKBjurtTZQ.name=First bucket of oil
+betterquesting.quest.7SPxhZDXSUKUkKBjurtTZQ.desc=Oil was not only used as a major energy source, it also served as the main ingredient source for the chemical industry.
+
+# Quest: Evaporating
+betterquesting.quest.CGs3rV0aRoqKvhGY7i30pg.name=Evaporating
+betterquesting.quest.CGs3rV0aRoqKvhGY7i30pg.desc=For you fancy pants what can't deal with a lil bit of green house gas emissions. This thing is literally being powered by your coal plant, don't even lie to yourself!
+
+# Quest: Aluminum at last
+betterquesting.quest.D3fI_JruSKG4fr9dteQtkw.name=Aluminum at last
+betterquesting.quest.D3fI_JruSKG4fr9dteQtkw.desc=Lightweight, durable, and uniquely resistant to corrosion. Aluminum is next step after steel.
+
+# Quest: Material soldering
+betterquesting.quest.DIfUgJP3TRCuNMCZ0m_7bw.name=Material soldering
+betterquesting.quest.DIfUgJP3TRCuNMCZ0m_7bw.desc=Oxygen in the blue bottle, water with calcium carbide in the red bottle. This will make acetylene.
+
+# Quest: Water electrolysis
+betterquesting.quest.K1jC7ZPnRqmqRuZrZ9VJKg.name=Water electrolysis
+betterquesting.quest.K1jC7ZPnRqmqRuZrZ9VJKg.desc=Getting hydrogen from electrolysis is pretty simple at first glance, but it requires purified water and a lot of energy.
+
+# Quest: HV Wiring
+betterquesting.quest.L0mAkktqQiiXw-_z7goGXw.name=HV Wiring
+betterquesting.quest.L0mAkktqQiiXw-_z7goGXw.desc=Time to juice up the long distance power transmission.
+
+# Quest: Alumina
+betterquesting.quest.N-WKum33R2qyOag27R6gOA.name=Alumina
+betterquesting.quest.N-WKum33R2qyOag27R6gOA.desc=Alumina is the first stage in the processing of bauxite to aluminum.
+
+# Quest: Industrial fertilizer
+betterquesting.quest.PB1pBzy5TK2gsby5LeEHvQ.name=Industrial fertilizer
+betterquesting.quest.PB1pBzy5TK2gsby5LeEHvQ.desc=Now we can start our industrial farms.
+
+# Quest: Wire extruding
+betterquesting.quest.PIraocHJQWuHlizmRA2exg.name=Wire extruding
+betterquesting.quest.PIraocHJQWuHlizmRA2exg.desc=To make glass fibers and heavy cables.
+
+# Quest: Chemical furnace
+betterquesting.quest.PKcwNhikRE6DhgX54p9TOw.name=Chemical furnace
+betterquesting.quest.PKcwNhikRE6DhgX54p9TOw.desc=To process the chemicals that a simple furnace can't.
+
+# Quest: Chemical reactor, for the PRO
+betterquesting.quest.ShWyOLotT_2YSP6s7ZoaQw.name=Chemical reactor, for the PRO
+betterquesting.quest.ShWyOLotT_2YSP6s7ZoaQw.desc=At last, a reactor that is capable of handling most reactions. I have a feeling that we are going to need a lot of these in the future.
+
+# Quest: Sulfuric acid
+betterquesting.quest.TgPntiFGT9-HGNB2hYjbOw.name=Sulfuric acid
+betterquesting.quest.TgPntiFGT9-HGNB2hYjbOw.desc=Another important chemical, now industry begins for real.
+
+# Quest: Basic chemical ingredients
+betterquesting.quest.UJAEaUk1Tse_CGjihnsC1Q.name=Basic chemical ingredients
+betterquesting.quest.UJAEaUk1Tse_CGjihnsC1Q.desc=Sodium hydroxide, or caustic soda, can be prepared in many ways. The most energy-efficient method would be from trona.
+
+# Quest: Muffle Furnace
+betterquesting.quest.XUa3veIZRXid62KyS9waFg.name=Muffle Furnace
+betterquesting.quest.XUa3veIZRXid62KyS9waFg.desc=The muffle furnace will allow precise heating of metals for use at the iron work bench.
+
+# Quest: Automatic loom
+betterquesting.quest._Q7P9tIpRyuI7r4zn0Pq0A.name=Automatic loom
+betterquesting.quest._Q7P9tIpRyuI7r4zn0Pq0A.desc=Say goodbye to blistered hands and worn fingers, we have an automatic loom! 
+
+# Quest: Air distillation
+betterquesting.quest.c3AP_hyuSY28VAAnGboMsA.name=Air distillation
+betterquesting.quest.c3AP_hyuSY28VAAnGboMsA.desc=Air consists of about 78%% nitrogen and 21%% oxygen. But beware, the gas entry side must not be blocked for air distillation.
+
+# Quest: Explosive crafting
+betterquesting.quest.gQo94iG7Twee5SQKhKM8_Q.name=Explosive crafting
+betterquesting.quest.gQo94iG7Twee5SQKhKM8_Q.desc=Good tools need a bit of diamond to get them sharpened
+
+# Quest: Fludized bed
+betterquesting.quest.m09a8R9ES7SXz4Kl12lyxw.name=Fludized bed
+betterquesting.quest.m09a8R9ES7SXz4Kl12lyxw.desc=Unlike standard reactors, this one is used to handle catalytic or solid-gas reactions with good efficiency.
+
+
+## Quest Line: Black gold
+betterquesting.questline.z9-oXXQZQlOhkflx2GptIg.name=Black gold
+betterquesting.questline.z9-oXXQZQlOhkflx2GptIg.desc=Through Crafting to the Stars
+
+# Quest: Oil separation - Part 2
+betterquesting.quest.0OM9nfbSSQaBNIYOqsVcbQ.name=Oil separation - Part 2
+betterquesting.quest.0OM9nfbSSQaBNIYOqsVcbQ.desc=The process oil obtained from the first distillation step consists mainly of heavier hydrocarbons and need to be further separated to give useable product.
+
+# Quest: Material crystallization
+betterquesting.quest.1TxsSy4AR0Wkj2kF7gbgHA.name=Material crystallization
+betterquesting.quest.1TxsSy4AR0Wkj2kF7gbgHA.desc=For the making of monocrystalline silicon.
+
+# Quest: Metal casting
+betterquesting.quest.2msNSErtQQaGVpOdVItF0A.name=Metal casting
+betterquesting.quest.2msNSErtQQaGVpOdVItF0A.desc=Using this casting device, the making of many components will become a lot easier.
+
+# Quest: Digital Revolution
+betterquesting.quest.2ykzBeuBSvOLTteW9jMygQ.name=Digital Revolution
+betterquesting.quest.2ykzBeuBSvOLTteW9jMygQ.desc=With plastics transistors can now be produced in miniature. With computers complex tasks can be automated more easily.
+
+# Quest: Polyurethane
+betterquesting.quest.4b6kzF0dSE2We-US8zZzRA.name=Polyurethane
+betterquesting.quest.4b6kzF0dSE2We-US8zZzRA.desc=PU plastic has very good mecanical properties, thus used in many stress-bearing components.
+
+# Quest: Precision cutting
+betterquesting.quest.64e5grAjStm29Qs--Zlyog.name=Precision cutting
+betterquesting.quest.64e5grAjStm29Qs--Zlyog.desc=No I can't cut this silicon boule by hand.
+
+# Quest: Oil
+betterquesting.quest.6RFWgTucRIqy9BLPs8Rnvg.name=Oil
+betterquesting.quest.6RFWgTucRIqy9BLPs8Rnvg.desc=The blood of the industry.
+
+# Quest: Basic plastics
+betterquesting.quest.8ufbADKJSsucZxnZ2sBYFw.name=Basic plastics
+betterquesting.quest.8ufbADKJSsucZxnZ2sBYFw.desc=Polyethylene is the most simple plastic used in our industry. It is made from steam cracking of ethane or propane, then formed in the plastic mixer.
+
+# Quest: Advanced Blast Furnace
+betterquesting.quest.8vLsGaXnSeSUN1aGMoZBnQ.name=Advanced Blast Furnace
+betterquesting.quest.8vLsGaXnSeSUN1aGMoZBnQ.desc=In order to process materials such as silicon, chrome and titanium, we need a better blast furnace that is able to handle very high temperatures.
+
+# Quest: Lubricants
+betterquesting.quest.BA6XGuX4QbmYbl6glzTwSQ.name=Lubricants
+betterquesting.quest.BA6XGuX4QbmYbl6glzTwSQ.desc=Mineral oil is extracted from the residual oil produced by distillation, and is used mainly for lubrication purposes.
+
+# Quest: Hydrazine powered
+betterquesting.quest.DRBN2j3ET-2yMmN9TBaejw.name=Hydrazine powered
+betterquesting.quest.DRBN2j3ET-2yMmN9TBaejw.desc=We can now start preparing our first space exploration. A mixture of hydrazine and unsymmetrical dimethylhydrazine serves as a good monopropellant fuel for our rocket.
+
+# Quest: Nuclear age
+betterquesting.quest.Dr0wXO5nTjCxTok0eHOyKQ.name=Nuclear age
+betterquesting.quest.Dr0wXO5nTjCxTok0eHOyKQ.desc=With the power of modern chemical reactors uranium fuel can now be produced for nuclear reactors. Here lies the future of power.
+
+# Quest: Circuitry: Silicon Dioxide
+betterquesting.quest.GrP4DbdTQZyFJqRB4h-oVQ.name=Circuitry: Silicon Dioxide
+betterquesting.quest.GrP4DbdTQZyFJqRB4h-oVQ.desc=Silicon dioxide is the fundamental of circuit industry. It can be produced from quartz, clay or even quatzite sand.
+
+# Quest: Radioisotope generator
+betterquesting.quest.K3lPIQEDT9OXoiUYJ_-b8w.name=Radioisotope generator
+betterquesting.quest.K3lPIQEDT9OXoiUYJ_-b8w.desc=With the byproducts of nuclear reactors RTGs can be crafted. These are useful for remote sites which need a decent amount of power.
+
+# Quest: Advanced heavy machinery
+betterquesting.quest.MmW7frrjTFOdIj7G94ncAA.name=Advanced heavy machinery
+betterquesting.quest.MmW7frrjTFOdIj7G94ncAA.desc=With aluminium, a brand new world of possibilities opens up before us. We will need this material for some advanced processing machinerys to get us into the next age of developpement. I can use the projector to check the structure of machines.
+
+# Quest: Launch Preparations
+betterquesting.quest.QdErjp1mTPe1iOG9J_mfgg.name=Launch Preparations
+betterquesting.quest.QdErjp1mTPe1iOG9J_mfgg.desc=The time has finally come, prepare our gears, and we are going for the moon!
+
+# Quest: Circuitry: Technical Silicon
+betterquesting.quest.Tr_TK9RSRLau6v4dRuQHCQ.name=Circuitry: Technical Silicon
+betterquesting.quest.Tr_TK9RSRLau6v4dRuQHCQ.desc=Technical silicon is produced by reducing SiO2 with hydrogen, or with carborn in a blast furnace.
+
+# Quest: Circuitry: Silicon Purification
+betterquesting.quest.U0e28MrpS4y_kBnVGGtMvQ.name=Circuitry: Silicon Purification
+betterquesting.quest.U0e28MrpS4y_kBnVGGtMvQ.desc=Technical grade silicon contains a lot of impurities and cannot be used directly in circuits. Thus further purification is essential.
+
+# Quest: Polycarbonate
+betterquesting.quest.UscCxPfrQQ6exEsBY0dRIQ.name=Polycarbonate
+betterquesting.quest.UscCxPfrQQ6exEsBY0dRIQ.desc=PC is used as plastic board in many products.
+
+# Quest: Advanced circuits
+betterquesting.quest.X2fmqGQOTiy8gM3I3anv1A.name=Advanced circuits
+betterquesting.quest.X2fmqGQOTiy8gM3I3anv1A.desc=This will serve as a core component in our future projects.
+
+# Quest: Oil separation - Part I
+betterquesting.quest.a5QwhiQPTlWmL849Uyh5Cg.name=Oil separation - Part I
+betterquesting.quest.a5QwhiQPTlWmL849Uyh5Cg.desc=Oil is a complex mixture of hydrocarborns with many compounds: sulfides, nitrides, brine and even metals. Due to such a complex nature, oil needs to be processed progressivly. The first step consist of separating the brine by cryo distillation, then further distillating into different major compounds. 
+
+# Quest: Advanced polymerization
+betterquesting.quest.aKIyYRoqQSO9Un1sffLrdA.name=Advanced polymerization
+betterquesting.quest.aKIyYRoqQSO9Un1sffLrdA.desc=As our industry expands, the property of PE plastic is no longer sufficient. In order to produce better polymers, a specialized reactor becomes necessary.
+
+# Quest: Aluminium!
+betterquesting.quest.c43xWugxRHeDNYS66e3K7g.name=Aluminium!
+betterquesting.quest.c43xWugxRHeDNYS66e3K7g.desc=Molten aluminium obtained from electrolysis needs to be casted into ingots before using.
+
+# Quest: Rolling with power
+betterquesting.quest.evfP_mssTRaVGgAsfXs-Tw.name=Rolling with power
+betterquesting.quest.evfP_mssTRaVGgAsfXs-Tw.desc=Being hard to process, we need a better rolling machine to deal with titanium.
+
+# Quest: Oil Power
+betterquesting.quest.gjy3Vl8CQBiU0_PgLbIgYw.name=Oil Power
+betterquesting.quest.gjy3Vl8CQBiU0_PgLbIgYw.desc=Refining of oil produces multitudes of byproducts which can be burned in a liquid boiler. The main burnable products are gasoline, LNG, LPG and methane. These make for reliable power sources.
+
+# Quest: Melting down metals
+betterquesting.quest.ht80NVoKQNeYXZfLBAUHsg.name=Melting down metals
+betterquesting.quest.ht80NVoKQNeYXZfLBAUHsg.desc=This device is necessary for the creating of advanced machine blocks used in the oil distillery.
+
+# Quest: Circuitry: Silicon Wafer
+betterquesting.quest.sqbEh6arQQec58PD-2YsCw.name=Circuitry: Silicon Wafer
+betterquesting.quest.sqbEh6arQQec58PD-2YsCw.desc=After recrystallization, a mono-crystallin silicon is obtained. It can then be used to produce circuits.
+
+# Quest: Nuclear Setup
+betterquesting.quest.tYF-tgTQRB25Ii3p8fOflA.name=Nuclear Setup
+betterquesting.quest.tYF-tgTQRB25Ii3p8fOflA.desc=With nuclear power there are two options. The safer but less efficient alternative is to run a reactor without any coolant and let it produce power directly. The other option is to run coolant through the reactor and produce steam through heat exchangers. Be careful with liquid reactors though, as you will need to engineer smart solutions to make sure your reactor does not go into meltdown.
+
+# Quest: Compact ore processing
+betterquesting.quest.vdHD5Q6jTnis_dUQl0C-iw.name=Compact ore processing
+betterquesting.quest.vdHD5Q6jTnis_dUQl0C-iw.desc=An automated ore grinder with built-in washing system, the streamlined process allow us to recover more useable materials.
+
+# Quest: Large scale reactors
+betterquesting.quest.vxmPr8GoRGifSUDGzJPbNA.name=Large scale reactors
+betterquesting.quest.vxmPr8GoRGifSUDGzJPbNA.desc=This corrosion-proof reactor is able to hand more reactions, with a built-in pre-mixer.
+
+# Quest: Advanced air compression
+betterquesting.quest.vzUQ8nn7Q16JEOEpddsNbg.name=Advanced air compression
+betterquesting.quest.vzUQ8nn7Q16JEOEpddsNbg.desc=Fuel powered air compressor is extremely slow and inefficient. We should replace it with a electrical one ASAP.
+
+# Quest: Titanium!
+betterquesting.quest.yhnayBPfTBaLwLU0o15iyw.name=Titanium!
+betterquesting.quest.yhnayBPfTBaLwLU0o15iyw.desc=While rare and expensive to process, titanium posesses incomparable chemical and physical properties, especially for aeronautic purposes. This is another great step for us.
+
+# Quest: Precision assembling
+betterquesting.quest.zZNrPo5ERmmJ-syIu8iwjA.name=Precision assembling
+betterquesting.quest.zZNrPo5ERmmJ-syIu8iwjA.desc=With craftsmanship we are able to progress so far, but the making of circuits is beyond our skills. 
+
+# Quest: Improved electrolyzer
+betterquesting.quest.zvjnGtXjRSC9mjiwyNiosw.name=Improved electrolyzer
+betterquesting.quest.zvjnGtXjRSC9mjiwyNiosw.desc=This improved version of electrlyzer allows the electrolysis of fluids with a better energy efficiency, also it can be used to recover metals from slurrys.
+
+
+## Quest Line: Ad astra
+betterquesting.questline.pxJIs4zgTyeS7wnqYm6ReA.name=Ad astra
+betterquesting.questline.pxJIs4zgTyeS7wnqYm6ReA.desc=No description
+
+# Quest: Planet of jewels
+betterquesting.quest.91zirVUgRQ-oKrW7uKiz6Q.name=Planet of jewels
+betterquesting.quest.91zirVUgRQ-oKrW7uKiz6Q.desc=No spoilers
+
+# Quest: Warpdrive active
+betterquesting.quest.BGlcs_vkRoa6N3sWThg0hw.name=Warpdrive active
+betterquesting.quest.BGlcs_vkRoa6N3sWThg0hw.desc=Now we are ready. all the planets within alpha centauri system are within our reach of hands. This prototype is limited, which means we are unable to reach other stars. But who know what could happen in the future? Maybe one day, we can finelly reach Earth again.
+
+# Quest: Advanced Heat Exchanger
+betterquesting.quest.C1fuM_usSW-yHCQ2rgK49Q.name=Advanced Heat Exchanger
+betterquesting.quest.C1fuM_usSW-yHCQ2rgK49Q.desc=By using titanium for heat exchangers, nuclear reactors become more efficient and reliable.
+
+# Quest: Mekanism Turbine
+betterquesting.quest.EFIj08DjTf2EbJNlMxOmTw.name=Mekanism Turbine
+betterquesting.quest.EFIj08DjTf2EbJNlMxOmTw.desc=The new materials available have revealed effiency gains that can be had in steam turbine design. A Mekanism turbine is much more efficient than a Railcraft or Advanced Generator turbine.
+
+# Quest: Tungsten
+betterquesting.quest.Fqrt3yRGRUKYRnfDzSMp6w.name=Tungsten
+betterquesting.quest.Fqrt3yRGRUKYRnfDzSMp6w.desc=While insanly complicated to process and purify, it's mass production is inevitable.
+
+# Quest: Advanced Gas Turbine
+betterquesting.quest.I9lmvGobQSeD1mzCxVuORg.name=Advanced Gas Turbine
+betterquesting.quest.I9lmvGobQSeD1mzCxVuORg.desc=The improved turbine technology can also be applied to burning gas directly.
+
+# Quest: The red planet
+betterquesting.quest.LnLuto8UQdm3m-F08G4chw.name=The red planet
+betterquesting.quest.LnLuto8UQdm3m-F08G4chw.desc=This planet is covered with ferric sand, which gives them a reddish colour. We have found large deposits of tungsten here.
+
+# Quest: Dilithium
+betterquesting.quest.NMOyAYO-QaOSvlP91h3tVg.name=Dilithium
+betterquesting.quest.NMOyAYO-QaOSvlP91h3tVg.desc=As the decryption of the alien data cache advances, a astonishing discovery has been revealed: a way to travel faster than light, with this "dilithium" as its fuel. We can replicate it with our devices, but could it be found naturally?
+
+# Quest: Ultimate ore processing (I)
+betterquesting.quest.RFoKcWmHSzOW4Qsu209L8A.name=Ultimate ore processing (I)
+betterquesting.quest.RFoKcWmHSzOW4Qsu209L8A.desc=The best crusher 
+
+# Quest: Fusing the atoms
+betterquesting.quest.TYxTZby4SCyD2jL7W7P17A.name=Fusing the atoms
+betterquesting.quest.TYxTZby4SCyD2jL7W7P17A.desc=Due to the lack of atmosphere, a moderate amount of helium-3 can be found in the moon dust. This is especially interesting as He-3 fusion is relativly easy to achieve. We have constructed a prototype fusion reactor to exploit this resource.
+
+# Quest: Thank you for playing!
+betterquesting.quest.WTqArL2JTzW8nR4Z4diZGw.name=Thank you for playing!
+betterquesting.quest.WTqArL2JTzW8nR4Z4diZGw.desc=All these worlds are yours, use them together, use them in peace.
+
+# Quest: The frozen ocean
+betterquesting.quest.XKZUflBRQ5qbwlOqc-cw2Q.name=The frozen ocean
+betterquesting.quest.XKZUflBRQ5qbwlOqc-cw2Q.desc=Nothing is special, unless it's made of methane.
+
+# Quest: Accelerator stablization
+betterquesting.quest.Yw6VIMPxTdeZeeNi4o36uQ.name=Accelerator stablization
+betterquesting.quest.Yw6VIMPxTdeZeeNi4o36uQ.desc=While we can increse the size of the particle accelerator to decrease its energy cost, the stability of the system has become a problem. With this stablizer, we can further increase its efficiency. It requires coolant to operate.
+
+# Quest: Fountain of power
+betterquesting.quest._3Wif2w0Q_OBcCemwDDWrQ.name=Fountain of power
+betterquesting.quest._3Wif2w0Q_OBcCemwDDWrQ.desc=With the help of the unknown, we have reached the stars again. Now, our latest innovation brings us the power of the sun: a sustainable fusion device.
+
+# Quest: Colliding atoms
+betterquesting.quest._rKaSSJBTP-isn9Ck9oqkg.name=Colliding atoms
+betterquesting.quest._rKaSSJBTP-isn9Ck9oqkg.desc=We have recovered some data cache from the capsule inside the astroids. It's alien, yet having some similarities with our own technologies. The first product of our research is a advanced particle accelerator, which will help us by "fabricating" some rare elements not found in this system.
+
+# Quest: Moon exploration
+betterquesting.quest.d4xR4GYBTe-Wbj2Cvwn3Sw.name=Moon exploration
+betterquesting.quest.d4xR4GYBTe-Wbj2Cvwn3Sw.desc=Just as previous analysis suggested, a large deposit of rutile ore can be found on the moon. We have also encountered some weird astroid impact sites, to be further analyzed.
+
+# Quest: Back in space
+betterquesting.quest.jjiQvOAATd2SlngzxY3GQw.name=Back in space
+betterquesting.quest.jjiQvOAATd2SlngzxY3GQw.desc=The vessel required for FTL travel need to be assembled in space, time to build a station.
+
+# Quest: Tungsten carbide
+betterquesting.quest.nOqRuU7nRH2wNyFHBeB2Yg.name=Tungsten carbide
+betterquesting.quest.nOqRuU7nRH2wNyFHBeB2Yg.desc=Adds some extra hardness to this already highly resistant material.
+
+# Quest: Ultimate ore processing (II)
+betterquesting.quest.pgumoCVzRaGuIUwI406j4w.name=Ultimate ore processing (II)
+betterquesting.quest.pgumoCVzRaGuIUwI406j4w.desc=The best grinder
+
+# Quest: Accelerating time
+betterquesting.quest.pysOGU-8QmSh5bGNTOQJEw.name=Accelerating time
+betterquesting.quest.pysOGU-8QmSh5bGNTOQJEw.desc=New research has revealed a way to speed up the particle accelerator. By constructing a ring of 16 Time Accelerator blocks the accelerator is sped up by 10x, but also uses 10x the amount of power.
+
+# Quest: Advanced Turbine
+betterquesting.quest.xkze8tSVQi2mbG2AFBA6qA.name=Advanced Turbine
+betterquesting.quest.xkze8tSVQi2mbG2AFBA6qA.desc=With the newfound excess of titanium, improved turbines can be constructed which are more efficent and durable. High pressure tubing is recommended for transporting steam.
+
+# Quest: Matter storage
+betterquesting.quest.yzSs8YnTTnaQ-csmg9b18w.name=Matter storage
+betterquesting.quest.yzSs8YnTTnaQ-csmg9b18w.desc=The alien technology discovered on the moon has allowed for storing matter as energy. This technology will revolutionize storage and automation.
+
+# Quest: Ultimate ore processing (III)
+betterquesting.quest.zvGiBxhTT8SXuQO1bFaCnw.name=Ultimate ore processing (III)
+betterquesting.quest.zvGiBxhTT8SXuQO1bFaCnw.desc=And the best and only sifter
+
+
+### Quests in multiple quest lines ###
+
+
+### Quests in no quest lines ###
+
+# Quest: Foodpaste Slab Conversion
+betterquesting.quest.43lPAszGRYmBZ60siF_uUg.name=Foodpaste Slab Conversion
+betterquesting.quest.43lPAszGRYmBZ60siF_uUg.desc=By adding moisture to a solid foodbar it becomes edible. Repeatable quest.
+
+# Quest: Deep Freezing
+betterquesting.quest.4albLSf-TOuoHlP1-Z_dmA.name=Deep Freezing
+betterquesting.quest.4albLSf-TOuoHlP1-Z_dmA.desc=By deep freezing food all decay can be prevented, but a freezer requires complicated technology to function.
+
+# Quest: Protein
+betterquesting.quest.7ZOn94jZRbyxGzkXGoYwpQ.name=Protein
+betterquesting.quest.7ZOn94jZRbyxGzkXGoYwpQ.desc=One of the five essential food groups.
+
+# Quest: Portable drinking water
+betterquesting.quest.AaMdaC7URXe9dpmV0DHaqQ.name=Portable drinking water
+betterquesting.quest.AaMdaC7URXe9dpmV0DHaqQ.desc=Having some water on the go, especially when caving can help extend the valuable time you can perform tasks. Being dehydrated leads to fatigue and eventual death. Right click the bottom of potable water bodies to drink by hand, or do the same with a jug to collect some water for later.
+
+# Quest: Foodpaste Production
+betterquesting.quest.CIhNieOPQqW5B6EaCDRkoQ.name=Foodpaste Production
+betterquesting.quest.CIhNieOPQqW5B6EaCDRkoQ.desc=Modern technology has provided us with a way of turning food into foodpaste bars, which contain all necessary nutrients while not decaying. This process requires a high-tech blender.
+
+# Quest: New Quest
+betterquesting.quest.F9Q63KhBTSq_Z_-ZfcnEQA.name=New Quest
+betterquesting.quest.F9Q63KhBTSq_Z_-ZfcnEQA.desc=No Description
+
+# Quest: Fruits
+betterquesting.quest.FbFOBFaeSQKXFqY8qXCDlw.name=Fruits
+betterquesting.quest.FbFOBFaeSQKXFqY8qXCDlw.desc=One of the five essential food groups.
+
+# Quest: Seed supply bag
+betterquesting.quest.KIsSTlLVTr-Qq2W5gnN0wg.name=Seed supply bag
+betterquesting.quest.KIsSTlLVTr-Qq2W5gnN0wg.desc=The escape pod had this small bag of seeds. I hope this will help me survive when I have a stable shelter.
+
+# Quest: Refrigeration
+betterquesting.quest.Mqxd5xl1RuK8q2hKIZrdkg.name=Refrigeration
+betterquesting.quest.Mqxd5xl1RuK8q2hKIZrdkg.desc=A more modern way of cooling food is with a powered refrigerator, which does not need ice to function.
+
+# Quest: Cheese
+betterquesting.quest.NJxxNXAmTFWEUIkdbqwYBw.name=Cheese
+betterquesting.quest.NJxxNXAmTFWEUIkdbqwYBw.desc=Cheese is the best way of consuming dairy. It can be made from milk and vinegar. There is also a method of making cheese from soybeans.
+
+# Quest: Portable storage
+betterquesting.quest.OjccooloRrW_lwZd3sJQhQ.name=Portable storage
+betterquesting.quest.OjccooloRrW_lwZd3sJQhQ.desc=Ceramic vessels are a good way to store food and prevent it from decaying too quickly.
+
+# Quest: New Quest
+betterquesting.quest.QJItfa0WSWeVPtE4M0GxoQ.name=New Quest
+betterquesting.quest.QJItfa0WSWeVPtE4M0GxoQ.desc=No Description
+
+# Quest: Long Grains
+betterquesting.quest.UNmZ8Kd2RfS6SrO-BubPKw.name=Long Grains
+betterquesting.quest.UNmZ8Kd2RfS6SrO-BubPKw.desc=Long grains make for a satisfying meal especially when made into bread.
+
+# Quest: Short Grains
+betterquesting.quest.WNOQG__oS8SHEYDHh605Vg.name=Short Grains
+betterquesting.quest.WNOQG__oS8SHEYDHh605Vg.desc=Short grains, like long can be made into bread, or eaten after shucking.
+
+# Quest: Fruit Trees
+betterquesting.quest.Yqp_pM5cRmKTiGORamzmJQ.name=Fruit Trees
+betterquesting.quest.Yqp_pM5cRmKTiGORamzmJQ.desc=Fruit trees can serve as a stable source of fruits which can yield in varying seasons depending on the fruit. In order to yield a sapplying cut the portions of the tree which fall just before the leaves.
+
+# Quest: Lunchboxes
+betterquesting.quest.aQ0J198xShOWdQdakTmvmw.name=Lunchboxes
+betterquesting.quest.aQ0J198xShOWdQdakTmvmw.desc=Lunchboxes are a great way to store food. They can be eaten from directly but also prevent food decay similar to a ceramic vessel.
+
+# Quest: Grains
+betterquesting.quest.bz00ejtoSDm82NMNXtrOPQ.name=Grains
+betterquesting.quest.bz00ejtoSDm82NMNXtrOPQ.desc=One of the five essential food groups. Use a quern and handstone to extract the grains from your crops, then mix with water and cook to perfection.
+
+# Quest: Dairy
+betterquesting.quest.mXuM6FmiTom-_mNJJW25Hg.name=Dairy
+betterquesting.quest.mXuM6FmiTom-_mNJJW25Hg.desc=Dairy is not neccesary for survival; However, the calcium found within milk is essential to becoming the ultimate beefcake and absorbing hits in stride.
+
+# Quest: New Quest
+betterquesting.quest.o3mRRz0pSoKHNWqkb12aJQ.name=New Quest
+betterquesting.quest.o3mRRz0pSoKHNWqkb12aJQ.desc=No Description
+
+# Quest: Berries
+betterquesting.quest.pCufA0xbQ4e7SGk4WGFM_A.name=Berries
+betterquesting.quest.pCufA0xbQ4e7SGk4WGFM_A.desc=Berries are plentiful and a good hold-over food to snack on before crops are ready for harvest.
+
+# Quest: New Quest
+betterquesting.quest.q-rT3W-6TV-WlZhidaB6cQ.name=New Quest
+betterquesting.quest.q-rT3W-6TV-WlZhidaB6cQ.desc=No Description
+
+# Quest: A durable drinking vessel
+betterquesting.quest.uiSozHc8RJ-aDPQkYzzX2w.name=A durable drinking vessel
+betterquesting.quest.uiSozHc8RJ-aDPQkYzzX2w.desc=The leather water sac contains multiple sips of water and is very durable, a clear improvement over delicate ceramic vessels
+
+# Quest: Soy
+betterquesting.quest.vFEZfyD_R6a6GhgnBXujEg.name=Soy
+betterquesting.quest.vFEZfyD_R6a6GhgnBXujEg.desc=While animals provide plenty of protein, it unfortunately takes a lot of effort to hunt and domesticate them. To support industrialization a plant protein substitute like Soybeans would help. Soybeans can also be processed into cheese with some difficulty.
+
+# Quest: High-tech drinking vessel
+betterquesting.quest.vw-YUR8WQaGUOxR-ZzbL7w.name=High-tech drinking vessel
+betterquesting.quest.vw-YUR8WQaGUOxR-ZzbL7w.desc=With advanced technology a drinking vessel which automatically refills using condensation and solar power can be constructed.
+
+# Quest: Animals
+betterquesting.quest.w8paW44rRBmKcvnEhf2L5Q.name=Animals
+betterquesting.quest.w8paW44rRBmKcvnEhf2L5Q.desc=Animals are a great source of protein. Luckily this planet seems to have animals which can be hunted or domesticated.
+
+# Quest: Sandwiches
+betterquesting.quest.wNxAs7xbSuKqb0tyOWltYQ.name=Sandwiches
+betterquesting.quest.wNxAs7xbSuKqb0tyOWltYQ.desc=Over the last few centuries researches have come to the conclusion that sandwiches are by far the best method of ingesting food. They are fast to consume, can be packed in a lunchbox and can be made with all the necessary nutrients to survive. Sandwiches can be made on a prep table.
+
+# Quest: Ice Cellar
+betterquesting.quest.wfTShk39Si6zttmbF0drdw.name=Ice Cellar
+betterquesting.quest.wfTShk39Si6zttmbF0drdw.desc=Food decays quickly in warm temperatures. In order to industrialize, food will need to be preserved to decrease the amount of hunting and gathering necessary. Ice Cellars are a great way of doing this. By constructing the Cellar multiblock, ice can be placed inside to lower the temperature and prevent decay of food. Ice can be collected with a metal ice saw.
