@@ -1,10 +1,12 @@
 ﻿§2§lPack Description
 
-§0Hello and welcome to the pack of project Per Fabrica Ad Astra ("Through crafting, to the stars"), created by team CappCraft. We are a group of players who seek the limits of modded Minecraft.
+§0Hello and welcome to the pack of project Per Fabrica Ad Astra ("Through crafting, to the stars"), originally created by team CappCraft, and expanded by the PFAA-Updates group of players.
+
+We dedicate this pack in part to ladyofwc, one of the first players to contribute back to the development of the mod and whose presence is missed.
 
 The pack was named after a mod created by noogenesis, which aims at improving the technical realism of modded Minecraft. The content of this pack was heavily inspired by the TNFC pack, and factorio mods such as bob’s and angel’s. 
 
-This pack aims at providing a complete, believable, and smooth experience from stone age to interstellar travel, with heavy engineering content in mind. Below is a list of features:
+This pack aims to provide a complete, believable, and smooth experience from stone age to interstellar travel, with heavy engineering content in mind. Below is a list of features:
 - Build (probably) the largest factory you have ever seen, with a large amount of multiblock machines. Resource processing becomes increasingly complex during your progression, and is fun to make and watch.
 - Manage your power generation and consumption; electricity is not free. Burn coal to start your basic industry, then progress to oil, nuclear fission, and nuclear fusion. Renewable energy will help you get started but will not be your main power source.
 - Use transport belts to automate your production lines, or be more advanced and use factorization servos. Energizing matter (AE2) is for the late game. Use Redstone, build craft gate and computers (OC/TIS-3D) to control your automations.
