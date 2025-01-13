@@ -69,6 +69,11 @@ mods.railcraft.RockCrusher.addRecipe(<tfctech:item.Ore>, true, false, [<tfctech:
 mods.railcraft.RockCrusher.addRecipe(<tfctech:item.Ore:1>, true, false, [<tfctech:item.Small Ore> * 5, <tfctech:item.Small Ore>], [1.0, 0.2]);
 mods.railcraft.RockCrusher.addRecipe(<tfctech:item.Ore:2>, true, false, [<tfctech:item.Small Ore> * 2, <tfctech:item.Small Ore>], [1.0, 0.2]);
 
+
+mods.immersiveengineering.Crusher.removeRecipe(<terrafirmacraft:item.Ore:26>);
+mods.railcraft.RockCrusher.addRecipe(<terrafirmacraft:item.Ore:26>, true, false, [<customitems:pitchblendenugget> * 3, <customitems:pitchblendenugget>], [1.0, 0.5]);
+
+
 //crusher removal
 mods.immersiveengineering.Crusher.removeRecipe(<techreborn:smallDust:44>);
 mods.immersiveengineering.Crusher.removeRecipe(<techreborn:smallDust:21>);
@@ -79,8 +84,9 @@ mods.immersiveengineering.Crusher.removeRecipe(<techreborn:smallDust:71>);
 mods.immersiveengineering.Crusher.removeRecipe(<techreborn:smallDust:80>);
 mods.immersiveengineering.Crusher.removeRecipe(<techreborn:smallDust:55>);
 mods.immersiveengineering.Crusher.removeRecipe(<techreborn:smallDust:87>);
+mods.immersiveengineering.Crusher.removeRecipe(<Magneticraft:item.dust:7>);
 
-mods.immersiveengineering.Crusher.removeRecipe(<minecraft:blaze_powder>);
+mods.railcraft.RockCrusher.addRecipe(<tfctech:item.Ore>, true, false, [<tfctech:item.Small Ore> * 3, <tfctech:item.Small Ore>], [1.0, 0.7]);
 
 
 //IE crusher

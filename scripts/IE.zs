@@ -88,7 +88,7 @@ recipes.remove(<libVulpes:libVulpesproductrod:7>);
 mods.immersiveengineering.BottlingMachine.addRecipe(<ImmersiveEngineering:material>, <ore:stickWood>, <liquid:creosote> * 8);
 mods.immersiveengineering.BottlingMachine.addRecipe(<ImmersiveEngineering:treatedWood>, <ore:plankWood>, <liquid:creosote> * 125);
 
-mods.immersiveengineering.BottlingMachine.addRecipe(<minecraft:blaze_rod>, <ore:stickSteel>, <liquid:lava> * 1000);
+mods.immersiveengineering.BottlingMachine.addRecipe(<minecraft:blaze_rod>, <ore:stickSteel>, <liquid:lavatfc> * 1000);
 
 mods.immersiveengineering.Crusher.removeRecipe(<ImmersiveEngineering:metal:19>);
 
