@@ -7,6 +7,7 @@
     Updated Carpenter's Blocks to 3.7.0-GTNH
     Updated Custom Main Menu to 1.12.0
     Updated NotEnoughItems to 2.7.18-GTNH
+    Updated CodeChickenCore to 1.4.1
     Updated CraftTweaker to 3.4.2-PFAA
 
 1.4.0-Beta1
@@ -48,24 +49,24 @@ Updated the following mods to releases made by GT New Horizons
     OpenComputers 1.11.1-GTNH
     ProjectRed 4.10.5
     Railcraft 9.16.0
-    Storage Drawers
-    Waila
-    WAILA Plugins
-    Wireless Redstone
-    CodeChickenCore
-    CodeChickenLib
+    Storage Drawers 2.0.5-GTNH
+    Waila 1.8.2
+    WAILA Plugins 0.6.0
+    Wireless Redstone 1.6.1
+    CodeChickenCore 1.4.0
+    CodeChickenLib 1.3.0
 
 Added the following mods as needed dependencies
 
-    AsieLib
-    ForgeRelocation
-    GTNH Lib
-    UniMixins
+    AsieLib 0.6.0
+    ForgeRelocation 0.2.0
+    GTNH Lib 0.6.0
+    UniMixins 0.1.19
 
 Other mod updates
 
-    Bibliocraft
-    IndustiralCraft 2
+    Bibliocraft 1.11.7
+    IndustiralCraft 2 2.2.828a
 
 
 #### 1.3.1
