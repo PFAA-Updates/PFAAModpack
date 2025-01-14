@@ -1,91 +1,90 @@
-u coins 
-cookwing with tfc
 
-1.4.0-RC1
+#### 1.4.0-RC1
 
-    Updated Antique Atlas to 4.4.6-GTNH
-    Updated Better Questing to 3.7.3-GTNH
-    Updated Applied Energistics 2 to rv3-beta-518-GTNH
-    Updated Build Craft to 7.1.42
-    Updated Carpenter's Blocks to 3.7.0-GTNH
-    Updated Custom Main Menu to 1.12.0
-    Updated NotEnoughItems to 2.7.18-GTNH
-    Updated CodeChickenCore to 1.4.1
-    Updated CraftTweaker to 3.4.2-PFAA
-    Updated TerraFirmaCraft NEI Plugin to 1.5.4-PFAA
-    Updated Advanced Lightsabers to 1.2.2
-    Updated Aroma1997Core to 1.0.2.16
-    Updated Chisel to 2.16.0-GTNH
-    Updated FogNerf to 0.4
-    Updated ItemPhysic to ItemPhysic Full 1.2.4
-    Added Computronics 1.9.0-GTNH
-    Added False Pattern Lib 1.5.7
-    Added Foam Fix 1.0.4
-    Added Lag Goggles 4.16.1
+* Updated Antique Atlas to 4.4.6-GTNH
+* Updated Better Questing to 3.7.3-GTNH
+* Updated Applied Energistics 2 to rv3-beta-518-GTNH
+* Updated Build Craft to 7.1.42
+* Updated Carpenter's Blocks to 3.7.0-GTNH
+* Updated Custom Main Menu to 1.12.0
+* Updated NotEnoughItems to 2.7.18-GTNH
+* Updated CodeChickenCore to 1.4.1
+* Updated CraftTweaker to 3.4.2-PFAA
+* Updated TerraFirmaCraft NEI Plugin to 1.5.4-PFAA
+* Updated Advanced Lightsabers to 1.2.2
+* Updated Aroma1997Core to 1.0.2.16
+* Updated Chisel to 2.16.0-GTNH
+* Updated FogNerf to 0.4
+* Updated ItemPhysic to ItemPhysic Full 1.2.4
+* Added Computronics 1.9.0-GTNH
+* Added False Pattern Lib 1.5.7
+* Added Foam Fix 1.0.4
+* Added Lag Goggles 4.16.1
 
-    Made Cooking with TFC a optional mod.
+* Made Cooking with TFC a optional mod.
+* Removed Universal Coins
 
-1.4.0-Beta1
+#### 1.4.0-Beta1
 
 Added the following mods for QOL / development enhancement
 
-    BetterCrashes 1.4.0-GTNH
-    Better Achievements 0.3.0
-    CTMLib 1.4.1.5
-    Dynamic Surroundings 1.0.64
+* BetterCrashes 1.4.0-GTNH
+* Better Achievements 0.3.0
+* CTMLib 1.4.1.5
+* Dynamic Surroundings 1.0.64
 
 Updated the following mods specifically for use in PFAA
 
-    MagnetiCraft 0.6.2-PFAA
-    Matter Overdrive 0.4.6-PFAA
-    TerraFirmaCraft v1.3
+* MagnetiCraft 0.6.2-PFAA
+* Matter Overdrive 0.4.6-PFAA
+* TerraFirmaCraft v1.3
 
 Updated the following mods to releases made by GT New Horizons
 
-    BetterQuesting 36.23-GTNH
-    Computronics 1.9.0-GTNH
-    BD lib 1.10.0-GTNH
-    Applied Energistics 2 rv3-beta-514-GTNH
-    Buildcraft 7-1.39-GTNH
-    BuildCraft Compat 7.1.17
-    Carpenter's Blocks 3.6.3-GTNH
-    Custom Main Menu 1.11.3
-    EnderCore 0.4.6
-    Forge Multipart 1.5.0
-    FTBLib 1.0.19-GTNH
-    FTBUtilities 1.1.1-GTNH
-    Iron Chests 6.0.87
-    Malisis Core 0.15.0 Version Locked
-    Malisis' Doors 1.15.0-GTNH Version Locked
-    Mod Tweaker 2 0.11.0
-    MrTJPCore 1.2.1
-    Nuclear Control 2 2.6.7
-    NotEnoughItems 2.7.8-GTNH
-    CraftTweaker 3.4.0
-    OpenMods 0.10.9
-    OpenBlocks 1.10.2-GTNH
-    OpenComputers 1.11.1-GTNH
-    ProjectRed 4.10.5
-    Railcraft 9.16.0
-    Storage Drawers 2.0.5-GTNH
-    Waila 1.8.2
-    WAILA Plugins 0.6.0
-    Wireless Redstone 1.6.1
-    CodeChickenCore 1.4.0
-    CodeChickenLib 1.3.0
-    Forestry 4.10.0
+* BetterQuesting 36.23-GTNH
+* Computronics 1.9.0-GTNH
+* BD lib 1.10.0-GTNH
+* Applied Energistics 2 rv3-beta-514-GTNH
+* Buildcraft 7-1.39-GTNH
+* BuildCraft Compat 7.1.17
+* Carpenter's Blocks 3.6.3-GTNH
+* Custom Main Menu 1.11.3
+* EnderCore 0.4.6
+* Forge Multipart 1.5.0
+* FTBLib 1.0.19-GTNH
+* FTBUtilities 1.1.1-GTNH
+* Iron Chests 6.0.87
+* Malisis Core 0.15.0 Version Locked
+* Malisis' Doors 1.15.0-GTNH Version Locked
+* Mod Tweaker 2 0.11.0
+* MrTJPCore 1.2.1
+* Nuclear Control 2 2.6.7
+* NotEnoughItems 2.7.8-GTNH
+* CraftTweaker 3.4.0
+* OpenMods 0.10.9
+* OpenBlocks 1.10.2-GTNH
+* OpenComputers 1.11.1-GTNH
+* ProjectRed 4.10.5
+* Railcraft 9.16.0
+* Storage Drawers 2.0.5-GTNH
+* Waila 1.8.2
+* WAILA Plugins 0.6.0
+* Wireless Redstone 1.6.1
+* CodeChickenCore 1.4.0
+* CodeChickenLib 1.3.0
+* Forestry 4.10.0
 
 Added the following mods as needed dependencies
 
-    AsieLib 0.6.0
-    ForgeRelocation 0.2.0
-    GTNH Lib 0.6.0
-    UniMixins 0.1.19
+* AsieLib 0.6.0
+* ForgeRelocation 0.2.0
+* GTNH Lib 0.6.0
+* UniMixins 0.1.19
 
 Other mod updates
 
-    Bibliocraft 1.11.7
-    IndustiralCraft 2 2.2.828a
+* Bibliocraft 1.11.7
+* IndustiralCraft 2 2.2.828a
 
 
 #### 1.3.1
