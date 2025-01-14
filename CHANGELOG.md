@@ -1,3 +1,6 @@
+u coins 
+cookwing with tfc
+
 1.4.0-RC1
 
     Updated Antique Atlas to 4.4.6-GTNH
@@ -9,6 +12,18 @@
     Updated NotEnoughItems to 2.7.18-GTNH
     Updated CodeChickenCore to 1.4.1
     Updated CraftTweaker to 3.4.2-PFAA
+    Updated TerraFirmaCraft NEI Plugin to 1.5.4-PFAA
+    Updated Advanced Lightsabers to 1.2.2
+    Updated Aroma1997Core to 1.0.2.16
+    Updated Chisel to 2.16.0-GTNH
+    Updated FogNerf to 0.4
+    Updated ItemPhysic to ItemPhysic Full 1.2.4
+    Added Computronics 1.9.0-GTNH
+    Added False Pattern Lib 1.5.7
+    Added Foam Fix 1.0.4
+    Added Lag Goggles 4.16.1
+
+    Made Cooking with TFC a optional mod.
 
 1.4.0-Beta1
 
@@ -16,11 +31,14 @@ Added the following mods for QOL / development enhancement
 
     BetterCrashes 1.4.0-GTNH
     Better Achievements 0.3.0
+    CTMLib 1.4.1.5
+    Dynamic Surroundings 1.0.64
 
 Updated the following mods specifically for use in PFAA
 
     MagnetiCraft 0.6.2-PFAA
     Matter Overdrive 0.4.6-PFAA
+    TerraFirmaCraft v1.3
 
 Updated the following mods to releases made by GT New Horizons
 
@@ -55,6 +73,7 @@ Updated the following mods to releases made by GT New Horizons
     Wireless Redstone 1.6.1
     CodeChickenCore 1.4.0
     CodeChickenLib 1.3.0
+    Forestry 4.10.0
 
 Added the following mods as needed dependencies
 
