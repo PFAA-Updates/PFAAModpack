@@ -107,7 +107,7 @@ mods.immersiveengineering.CokeOven.addRecipe(<ImmersiveEngineering:material:6>, 
 
 //recipes
 recipes.remove(<ImmersiveEngineering:woodenDevice:3>);
-recipes.addShaped(<ImmersiveEngineering:woodenDevice:2>,
+recipes.addShaped(<ImmersiveEngineering:woodenDevice:3>,
  [[<ImmersiveEngineering:material:5>, <ImmersiveEngineering:material:5>, <ImmersiveEngineering:material:5>],
   [<ImmersiveEngineering:material:5>, <ore:plateBlackSteel>, <ImmersiveEngineering:material:5>],
   [<ImmersiveEngineering:material:5>, <ImmersiveEngineering:material:5>, <ImmersiveEngineering:material:5>]]);
