@@ -1,3 +1,5 @@
+import minetweaker.item.IItemStack;
+
 var dyeStacks = [<ore:dyeWhite>, 		<ore:dyeOrange>,	<ore:dyeMagenta>,	<ore:dyeLightBlue>,
 				 <ore:dyeYellow>,		<ore:Lime>, 		<ore:dyePink>,		<ore:dyeGray>,
 				 <ore:dyeLightGray>,	<ore:dyeCyan>,		<ore:dyePurple>,	<ore:dyeBlue>,
