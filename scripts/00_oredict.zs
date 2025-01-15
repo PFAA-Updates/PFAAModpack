@@ -100,3 +100,7 @@ ingotDoubleAny.add(<tfctech:item.Aluminum Double Ingot>);
 ingotDoubleAny.add(<tfctech:item.Electrum Double Ingot>);
 ingotDoubleAny.add(<tfctech:item.Constantan Double Ingot>);
 ingotDoubleAny.add(<tfctech:item.Invar Double Ingot>);
+
+var ingotChrome = <ore:ingotChrome>;
+
+ingotChrome.add(<foundry:foundryIngot:12>);
