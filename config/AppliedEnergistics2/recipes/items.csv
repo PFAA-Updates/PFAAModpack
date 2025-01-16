@@ -943,8 +943,8 @@ minecraft:spawn_egg:37, Spawn Creeper
 minecraft:spawn_egg:38, Spawn Sheep
 minecraft:spawn_egg:39, Spawn Pheasant
 minecraft:spawn_egg:67, Spawn Horse
-minecraft:spawn_egg:76, Spawn Sith Ghost
-minecraft:spawn_egg:78, Spawn Wailer
+minecraft:spawn_egg:74, Spawn Sith Ghost
+minecraft:spawn_egg:76, Spawn Wailer
 minecraft:experience_bottle, Bottle o' Enchanting
 minecraft:fire_charge, Fire Charge
 minecraft:writable_book, Book and Quill
@@ -1285,6 +1285,13 @@ BuildCraft|Core:engineBlock:2, Combustion Engine
 BuildCraft|Core:engineBlock:3, Creative Engine
 BuildCraft|Core:markerBlock, Land Mark
 BuildCraft|Core:pathMarkerBlock, Path Mark
+BuildCraft|Builders:machineBlock, Quarry
+BuildCraft|Builders:fillerBlock, Filler
+BuildCraft|Builders:frameBlock, Frame
+BuildCraft|Builders:builderBlock, Builder
+BuildCraft|Builders:architectBlock, Architect Table
+BuildCraft|Builders:libraryBlock, Electronic Library
+BuildCraft|Builders:constructionMarkerBlock, Construction Mark
 BuildCraft|Energy:blockOil, Oil
 BuildCraft|Energy:blockFuel, Diesel fuel
 BuildCraft|Energy:blockRedPlasma, tile.blockRedPlasma.name
@@ -1294,13 +1301,6 @@ BuildCraft|Factory:pumpBlock, Pump
 BuildCraft|Factory:floodGateBlock, Flood Gate
 BuildCraft|Factory:refineryBlock, Refinery
 BuildCraft|Factory:blockHopper, Chute
-BuildCraft|Builders:machineBlock, Quarry
-BuildCraft|Builders:fillerBlock, Filler
-BuildCraft|Builders:frameBlock, Frame
-BuildCraft|Builders:builderBlock, Builder
-BuildCraft|Builders:architectBlock, Architect Table
-BuildCraft|Builders:libraryBlock, Electronic Library
-BuildCraft|Builders:constructionMarkerBlock, Construction Mark
 IC2:blockOreCopper, ic2.blockOreCopper.name
 IC2:blockOreTin, ic2.blockOreTin.name
 IC2:blockOreUran, ic2.blockOreUran.name
@@ -2433,8 +2433,6 @@ BiblioCraft:BiblioSeats:5, Dark Oak Seat
 BiblioCraft:BiblioSeats:6, Framed Seat
 BuildCraft|Robotics:zonePlan, Zone Planner
 BuildCraft|Robotics:requester, Requester
-BuildCraft|Transport:filteredBufferBlock, Filtered Buffer
-BuildCraft|Transport:pipeBlock, tile.pipeBlock.name
 BuildCraft|Silicon:laserBlock, Laser
 BuildCraft|Silicon:laserTableBlock:0, Assembly Table
 BuildCraft|Silicon:laserTableBlock:1, Advanced Crafting Table
@@ -2443,6 +2441,8 @@ BuildCraft|Silicon:laserTableBlock:3, Charging Table
 BuildCraft|Silicon:laserTableBlock:4, Programming Table
 BuildCraft|Silicon:laserTableBlock:5, Stamping Table
 BuildCraft|Silicon:packagerBlock, Recipe Packager
+BuildCraft|Transport:filteredBufferBlock, Filtered Buffer
+BuildCraft|Transport:pipeBlock, tile.pipeBlock.name
 Forestry:core:0, Analyzer
 Forestry:core:1, Escritoire
 Forestry:soil:0, Humus
@@ -2971,26 +2971,28 @@ AdvancedMachines:advancedmachines.arrayDevice:0, Array Solar Panel
 AdvancedMachines:advancedmachines.arrayDevice:1, Array Watermill
 AdvancedMachines:advancedmachines.arrayDevice:2, Array Windmill
 AdvancedMachines:advancedmachines.arrayController, Array Controller
-lightsabers:lightsaber_crystal:0, Deep Blue Lightsaber Crystal
-lightsabers:lightsaber_crystal:0, Medium Blue Lightsaber Crystal
-lightsabers:lightsaber_crystal:0, Light Blue Lightsaber Crystal
-lightsabers:lightsaber_crystal:0, Arctic Blue Lightsaber Crystal
-lightsabers:lightsaber_crystal:0, White Lightsaber Crystal
-lightsabers:lightsaber_crystal:0, Indigo Lightsaber Crystal
-lightsabers:lightsaber_crystal:0, Purple Lightsaber Crystal
-lightsabers:lightsaber_crystal:0, Magenta Lightsaber Crystal
-lightsabers:lightsaber_crystal:0, Pink Lightsaber Crystal
-lightsabers:lightsaber_crystal:0, Red Lightsaber Crystal
-lightsabers:lightsaber_crystal:0, Blood Orange Lightsaber Crystal
-lightsabers:lightsaber_crystal:0, Amber Lightsaber Crystal
-lightsabers:lightsaber_crystal:0, Yellow Lightsaber Crystal
-lightsabers:lightsaber_crystal:0, Gold Lightsaber Crystal
-lightsabers:lightsaber_crystal:0, Lime Green Lightsaber Crystal
-lightsabers:lightsaber_crystal:0, Green Lightsaber Crystal
-lightsabers:lightsaber_crystal:0, Mint Green Lightsaber Crystal
-lightsabers:lightsaber_crystal:0, Cyan Lightsaber Crystal
+lightsabers:lightsaber_crystal:0, Lightsaber Crystal
+lightsabers:lightsaber_crystal:1, Lightsaber Crystal
+lightsabers:lightsaber_crystal:2, Lightsaber Crystal
+lightsabers:lightsaber_crystal:3, Lightsaber Crystal
+lightsabers:lightsaber_crystal:4, Lightsaber Crystal
+lightsabers:lightsaber_crystal:5, Lightsaber Crystal
+lightsabers:lightsaber_crystal:6, Lightsaber Crystal
+lightsabers:lightsaber_crystal:7, Lightsaber Crystal
+lightsabers:lightsaber_crystal:8, Lightsaber Crystal
+lightsabers:lightsaber_crystal:9, Lightsaber Crystal
+lightsabers:lightsaber_crystal:10, Lightsaber Crystal
+lightsabers:lightsaber_crystal:11, Lightsaber Crystal
+lightsabers:lightsaber_crystal:12, Lightsaber Crystal
+lightsabers:lightsaber_crystal:13, Lightsaber Crystal
+lightsabers:lightsaber_crystal:14, Lightsaber Crystal
+lightsabers:lightsaber_crystal:15, Lightsaber Crystal
+lightsabers:lightsaber_crystal:16, Lightsaber Crystal
+lightsabers:lightsaber_crystal:17, Lightsaber Crystal
 lightsabers:lightsaber_forge_light, Lightsaber Forge
 lightsabers:lightsaber_forge_dark, Lightsaber Forge
+lightsabers:lightsaber_stand, Lightsaber Stand
+lightsabers:disassembly_station, Disassembly Station
 lightsabers:sith_coffin, Sith Sarcophagus
 lightsabers:sith_stone_coffin, Stone Sith Coffin
 lightsabers:holocron:0, Jedi Holocron
@@ -2998,11 +3000,15 @@ lightsabers:holocron:1, Sith Holocron
 lightsabers:light_forcestone:0, Light Forcestone
 lightsabers:light_forcestone:1, Light Inscribed Forcestone
 lightsabers:light_forcestone:2, Light Forcestone Pillar
+lightsabers:light_forcestone:5, Light Cracked Forcestone
+lightsabers:light_forcestone:6, Light Mossy Forcestone
 lightsabers:light_activated_forcestone_pillar, Light Activated Forcestone Pillar
 lightsabers:light_forcestone_stairs, Light Forcestone Stairs
 lightsabers:dark_forcestone:0, Dark Forcestone
 lightsabers:dark_forcestone:1, Dark Inscribed Forcestone
 lightsabers:dark_forcestone:2, Dark Forcestone Pillar
+lightsabers:dark_forcestone:5, Dark Cracked Forcestone
+lightsabers:dark_forcestone:6, Dark Chipped Forcestone
 lightsabers:dark_activated_forcestone_pillar, Dark Activated Forcestone Pillar
 lightsabers:dark_forcestone_stairs, Dark Forcestone Stairs
 lightsabers:forcestone_slab:0, Light Forcestone Slab
@@ -3199,7 +3205,7 @@ appliedenergistics2:tile.BlockSingularityCraftingStorage:0, Singularity Crafting
 appliedenergistics2:tile.BlockCraftingMonitor:0, Crafting Monitor
 appliedenergistics2:tile.BlockMolecularAssembler, Molecular Assembler
 appliedenergistics2:tile.BlockLightDetector, Light Detecting Fixture
-appliedenergistics2:tile.BlockPaint, tile.appliedenergistics2.BlockPaint.name
+appliedenergistics2:tile.BlockPaint, Paint
 appliedenergistics2:tile.BlockPatternOptimizationMatrix, Pattern Optimization Matrix
 appliedenergistics2:tile.SkyStoneStairBlock, Sky Stone Stairs
 appliedenergistics2:tile.SkyStoneBlockStairBlock, Sky Stone Block Stairs
@@ -5423,98 +5429,6 @@ computronics:computronics.digitalControllerBox, Digital Signal Controller Box
 computronics:computronics.detector, Detector - Digital
 computronics:computronics.ticketMachine, Ticket Machine
 computronics:computronics.speechBox, Speech Box
-cookingwithtfc:GrainsBlock, Grain
-cookingwithtfc:MixingBowl:0, Clay Mixing Bowl
-cookingwithtfc:MixingBowl:1, Ceramic Mixing Bowl
-cookingwithtfc:Hopper, Hopper
-cookingwithtfc:CookingPot, Cooking Pot
-cookingwithtfc:meatCWTFC, Meat
-cookingwithtfc:sandwichCWTFC, tile.SandwichsBlock.name
-cookingwithtfc:bowlCWTFC, tile.BowlCWTFC.name
-cookingwithtfc:clayOven, Clay Oven
-cookingwithtfc:tableStorage, Food Table Items
-cookingwithtfc:customGourd, tile.Gourd.name
-cookingwithtfc:customCrop, tile.customCrop.name
-cookingwithtfc:naturalLog:0, Walnut Log
-cookingwithtfc:WoodVert:0, Walnut Log
-cookingwithtfc:customSapling:0, Walnut Sapling
-cookingwithtfc:nutTreeLog:0, Almond Sapling
-cookingwithtfc:nutTreeLog:1, Cashew Sapling
-cookingwithtfc:nutTreeLog:2, Coconut Sapling
-cookingwithtfc:nutTreeLog:3, Hazelnut Sapling
-cookingwithtfc:nutTreeLog:4, Macadamia Nut Sapling
-cookingwithtfc:nutTreeLog:5, Pistachio Sapling
-cookingwithtfc:nutTreeLeaves, tile.NutTreeLeaves.name
-cookingwithtfc:woodPlank:0, Walnut Planks
-cookingwithtfc:lumberConstruct, Lumber
-cookingwithtfc:PrepTableN:0, Oak Food Table
-cookingwithtfc:PrepTableN:1, Aspen Food Table
-cookingwithtfc:PrepTableN:2, Birch Food Table
-cookingwithtfc:PrepTableN:3, Chestnut Food Table
-cookingwithtfc:PrepTableN:4, Douglas Fir Food Table
-cookingwithtfc:PrepTableN:5, Hickory Food Table
-cookingwithtfc:PrepTableN:6, Maple Food Table
-cookingwithtfc:PrepTableN:7, Ash Food Table
-cookingwithtfc:PrepTableN:8, Pine Food Table
-cookingwithtfc:PrepTableN:9, Sequoia Food Table
-cookingwithtfc:PrepTableN:10, Spruce Food Table
-cookingwithtfc:PrepTableN:11, Sycamore Food Table
-cookingwithtfc:PrepTableN:12, White Cedar Food Table
-cookingwithtfc:PrepTableN:13, White Elm Food Table
-cookingwithtfc:PrepTableN:14, Willow Food Table
-cookingwithtfc:PrepTableN:15, Kapok Food Table
-cookingwithtfc:PrepTable2N:0, Acacia Food Table
-cookingwithtfc:PrepTableS:0, Oak Food Table
-cookingwithtfc:PrepTableS:1, Aspen Food Table
-cookingwithtfc:PrepTableS:2, Birch Food Table
-cookingwithtfc:PrepTableS:3, Chestnut Food Table
-cookingwithtfc:PrepTableS:4, Douglas Fir Food Table
-cookingwithtfc:PrepTableS:5, Hickory Food Table
-cookingwithtfc:PrepTableS:6, Maple Food Table
-cookingwithtfc:PrepTableS:7, Ash Food Table
-cookingwithtfc:PrepTableS:8, Pine Food Table
-cookingwithtfc:PrepTableS:9, Sequoia Food Table
-cookingwithtfc:PrepTableS:10, Spruce Food Table
-cookingwithtfc:PrepTableS:11, Sycamore Food Table
-cookingwithtfc:PrepTableS:12, White Cedar Food Table
-cookingwithtfc:PrepTableS:13, White Elm Food Table
-cookingwithtfc:PrepTableS:14, Willow Food Table
-cookingwithtfc:PrepTableS:15, Kapok Food Table
-cookingwithtfc:PrepTable2S:0, Acacia Food Table
-cookingwithtfc:PrepTableE:0, Oak Food Table
-cookingwithtfc:PrepTableE:1, Aspen Food Table
-cookingwithtfc:PrepTableE:2, Birch Food Table
-cookingwithtfc:PrepTableE:3, Chestnut Food Table
-cookingwithtfc:PrepTableE:4, Douglas Fir Food Table
-cookingwithtfc:PrepTableE:5, Hickory Food Table
-cookingwithtfc:PrepTableE:6, Maple Food Table
-cookingwithtfc:PrepTableE:7, Ash Food Table
-cookingwithtfc:PrepTableE:8, Pine Food Table
-cookingwithtfc:PrepTableE:9, Sequoia Food Table
-cookingwithtfc:PrepTableE:10, Spruce Food Table
-cookingwithtfc:PrepTableE:11, Sycamore Food Table
-cookingwithtfc:PrepTableE:12, White Cedar Food Table
-cookingwithtfc:PrepTableE:13, White Elm Food Table
-cookingwithtfc:PrepTableE:14, Willow Food Table
-cookingwithtfc:PrepTableE:15, Kapok Food Table
-cookingwithtfc:PrepTable2E:0, Acacia Food Table
-cookingwithtfc:PrepTableW:0, Oak Food Table
-cookingwithtfc:PrepTableW:1, Aspen Food Table
-cookingwithtfc:PrepTableW:2, Birch Food Table
-cookingwithtfc:PrepTableW:3, Chestnut Food Table
-cookingwithtfc:PrepTableW:4, Douglas Fir Food Table
-cookingwithtfc:PrepTableW:5, Hickory Food Table
-cookingwithtfc:PrepTableW:6, Maple Food Table
-cookingwithtfc:PrepTableW:7, Ash Food Table
-cookingwithtfc:PrepTableW:8, Pine Food Table
-cookingwithtfc:PrepTableW:9, Sequoia Food Table
-cookingwithtfc:PrepTableW:10, Spruce Food Table
-cookingwithtfc:PrepTableW:11, Sycamore Food Table
-cookingwithtfc:PrepTableW:12, White Cedar Food Table
-cookingwithtfc:PrepTableW:13, White Elm Food Table
-cookingwithtfc:PrepTableW:14, Willow Food Table
-cookingwithtfc:PrepTableW:15, Kapok Food Table
-cookingwithtfc:PrepTable2W:0, Acacia Food Table
 customitems:methaneice, tile.methaneice.name
 customitems:acetone, tile.acetone.name
 customitems:acetoneoilmix, tile.acetoneoilmix.name
@@ -6129,9 +6043,6 @@ GregsLighting:floodlightBeam, tile.gcewing_lighting:floodlightBeam.name
 GregsLighting:floodlight, Floodlight
 GregsLighting:ic2ElectricFloodlight, IC2 Electric Floodlight
 GregsLighting:ic2ElectricFloodlightOn, IC2 Electric Floodlight
-HardcoreQuesting:item_barrel, Quest Delivery System
-HardcoreQuesting:quest_tracker, Quest Tracking System
-HardcoreQuesting:quest_portal, tile.hqm:quest_portal.name
 ihl:injectionMold:0, Injection mold
 ihl:oreBischofite, Bischofite
 ihl:oreDatolite, Datolite
@@ -7946,10 +7857,10 @@ BuildCraft|Core:ironGearItem, Iron Gear
 BuildCraft|Core:goldGearItem, Gold Gear
 BuildCraft|Core:diamondGearItem, Diamond Gear
 BuildCraft|Core:paintbrush, Paintbrush
-BuildCraft|Energy:bucketOil, Oil Bucket
-BuildCraft|Energy:bucketFuel, Fuel Bucket
 BuildCraft|Builders:templateItem, Template
 BuildCraft|Builders:blueprintItem, Blueprint
+BuildCraft|Energy:bucketOil, Oil Bucket
+BuildCraft|Energy:bucketFuel, Fuel Bucket
 IC2:itemHarz, ic2.itemHarz.name
 IC2:itemRubber, ic2.itemRubber.name
 IC2:itemFluidCell, ic2.itemFluidCell.name
@@ -8841,8 +8752,18 @@ BiblioCraft:item.seatBack5:6, Framed Seat Back
 BiblioCraft:item.BiblioMapTool, Drafting Compass
 BiblioCraft:item.BiblioWayPointCompass, Waypoint Compass
 BuildCraft|Robotics:robot, Robot
-BuildCraft|Robotics:robotStation, item.robotStation.name
+BuildCraft|Robotics:robotStation, Docking Station
 BuildCraft|Robotics:redstone_board, Redstone Board
+BuildCraft|Silicon:redstoneChipset:0, Redstone Chipset
+BuildCraft|Silicon:redstoneChipset:1, Iron Chipset
+BuildCraft|Silicon:redstoneChipset:2, Golden Chipset
+BuildCraft|Silicon:redstoneChipset:3, Diamond Chipset
+BuildCraft|Silicon:redstoneChipset:4, Pulsating Chipset
+BuildCraft|Silicon:redstoneChipset:5, Quartz Chipset
+BuildCraft|Silicon:redstoneChipset:6, Redstone Comp Chipset
+BuildCraft|Silicon:redstoneChipset:7, Emerald Chipset
+BuildCraft|Silicon:package, Package
+BuildCraft|Silicon:redstoneCrystal, Redstone Crystal
 BuildCraft|Transport:pipeWaterproof, Pipe Sealant
 BuildCraft|Transport:item.buildcraftPipe.pipeitemswood:0, Wooden Transport Pipe
 BuildCraft|Transport:item.buildcraftPipe.pipeitemsemerald:0, Emerald Transport Pipe
@@ -8885,8 +8806,8 @@ BuildCraft|Transport:pipeWire:0, Red Pipe Wire
 BuildCraft|Transport:pipeWire:1, Blue Pipe Wire
 BuildCraft|Transport:pipeWire:2, Green Pipe Wire
 BuildCraft|Transport:pipeWire:3, Yellow Pipe Wire
-BuildCraft|Transport:pipeGate, item.pipeGate.name
-BuildCraft|Transport:pipePlug, item.pipePlug.name
+BuildCraft|Transport:pipeGate, Gate
+BuildCraft|Transport:pipePlug, Pipe Plug
 BuildCraft|Transport:pipeLens:0, Lens (Black)
 BuildCraft|Transport:pipeLens:1, Lens (Red)
 BuildCraft|Transport:pipeLens:2, Lens (Green)
@@ -8921,18 +8842,8 @@ BuildCraft|Transport:pipeLens:30, Filter (Orange)
 BuildCraft|Transport:pipeLens:31, Filter (White)
 BuildCraft|Transport:pipeLens:32, Lens (Clear)
 BuildCraft|Transport:pipeLens:33, Filter (Clear)
-BuildCraft|Transport:pipePowerAdapter, item.pipePowerAdapter.name
+BuildCraft|Transport:pipePowerAdapter, Power Adapter
 BuildCraft|Transport:gateCopier, Gate Copier
-BuildCraft|Silicon:redstoneChipset:0, Redstone Chipset
-BuildCraft|Silicon:redstoneChipset:1, Iron Chipset
-BuildCraft|Silicon:redstoneChipset:2, Golden Chipset
-BuildCraft|Silicon:redstoneChipset:3, Diamond Chipset
-BuildCraft|Silicon:redstoneChipset:4, Pulsating Chipset
-BuildCraft|Silicon:redstoneChipset:5, Quartz Chipset
-BuildCraft|Silicon:redstoneChipset:6, Redstone Comp Chipset
-BuildCraft|Silicon:redstoneChipset:7, Emerald Chipset
-BuildCraft|Silicon:package, Package
-BuildCraft|Silicon:redstoneCrystal, Redstone Crystal
 Forestry:fertilizerBio, Compost
 Forestry:fertilizerCompound, Fertilizer
 Forestry:researchNote, %s's Notes
@@ -9761,6 +9672,28 @@ lightsabers:focusing_crystal:0, Compressed Focusing Crystal
 lightsabers:focusing_crystal:1, Cracked Kyber Crystal
 lightsabers:focusing_crystal:2, Inverting Focusing Crystal
 lightsabers:focusing_crystal:3, Fine-Cut Focusing Crystal
+lightsabers:focusing_crystal:4, Prismatic Focusing Crystal
+lightsabers:crystal_pouch:0, Crystal Pouch
+lightsabers:crystal_pouch:1, Crystal Pouch
+lightsabers:crystal_pouch:2, Crystal Pouch
+lightsabers:crystal_pouch:3, Crystal Pouch
+lightsabers:crystal_pouch:4, Crystal Pouch
+lightsabers:crystal_pouch:5, Crystal Pouch
+lightsabers:crystal_pouch:6, Crystal Pouch
+lightsabers:crystal_pouch:7, Crystal Pouch
+lightsabers:crystal_pouch:8, Crystal Pouch
+lightsabers:crystal_pouch:9, Crystal Pouch
+lightsabers:crystal_pouch:10, Crystal Pouch
+lightsabers:crystal_pouch:11, Crystal Pouch
+lightsabers:crystal_pouch:12, Crystal Pouch
+lightsabers:crystal_pouch:13, Crystal Pouch
+lightsabers:crystal_pouch:14, Crystal Pouch
+lightsabers:crystal_pouch:15, Crystal Pouch
+lightsabers:crystal_pouch:16, Crystal Pouch
+lightsabers:crystal_pouch:17, Crystal Pouch
+lightsabers:lightsaber_blade_emitter:0, Lightsaber Blade Emitter
+lightsabers:lightsaber_blade_emitter:0, Lightsaber Blade Emitter
+lightsabers:lightsaber_blade_emitter:0, Lightsaber Blade Emitter
 lightsabers:lightsaber_blade_emitter:0, Lightsaber Blade Emitter
 lightsabers:lightsaber_blade_emitter:0, Lightsaber Blade Emitter
 lightsabers:lightsaber_blade_emitter:0, Lightsaber Blade Emitter
@@ -9787,6 +9720,12 @@ lightsabers:lightsaber_switch_module:0, Lightsaber Switch Module
 lightsabers:lightsaber_switch_module:0, Lightsaber Switch Module
 lightsabers:lightsaber_switch_module:0, Lightsaber Switch Module
 lightsabers:lightsaber_switch_module:0, Lightsaber Switch Module
+lightsabers:lightsaber_switch_module:0, Lightsaber Switch Module
+lightsabers:lightsaber_switch_module:0, Lightsaber Switch Module
+lightsabers:lightsaber_switch_module:0, Lightsaber Switch Module
+lightsabers:lightsaber_grip:0, Lightsaber Grip
+lightsabers:lightsaber_grip:0, Lightsaber Grip
+lightsabers:lightsaber_grip:0, Lightsaber Grip
 lightsabers:lightsaber_grip:0, Lightsaber Grip
 lightsabers:lightsaber_grip:0, Lightsaber Grip
 lightsabers:lightsaber_grip:0, Lightsaber Grip
@@ -9813,6 +9752,12 @@ lightsabers:lightsaber_pommel:0, Lightsaber Pommel
 lightsabers:lightsaber_pommel:0, Lightsaber Pommel
 lightsabers:lightsaber_pommel:0, Lightsaber Pommel
 lightsabers:lightsaber_pommel:0, Lightsaber Pommel
+lightsabers:lightsaber_pommel:0, Lightsaber Pommel
+lightsabers:lightsaber_pommel:0, Lightsaber Pommel
+lightsabers:lightsaber_pommel:0, Lightsaber Pommel
+lightsabers:lightsaber:0, Lightsaber
+lightsabers:lightsaber:0, Lightsaber
+lightsabers:lightsaber:0, Lightsaber
 lightsabers:lightsaber:0, Lightsaber
 lightsabers:lightsaber:0, Lightsaber
 lightsabers:lightsaber:0, Lightsaber
@@ -10550,10 +10495,14 @@ appliedenergistics2:item.ItemFacade:0, Cable Facade - Array Windmill
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Light Forcestone
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Light Inscribed Forcestone
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Light Forcestone Pillar
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Light Cracked Forcestone
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Light Mossy Forcestone
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Light Activated Forcestone Pillar
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Dark Forcestone
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Dark Inscribed Forcestone
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Dark Forcestone Pillar
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Dark Cracked Forcestone
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Dark Chipped Forcestone
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Dark Activated Forcestone Pillar
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Dilithium Ore
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Copper Ore
@@ -11809,8 +11758,6 @@ appliedenergistics2:item.ItemFacade:0, Cable Facade - §dMagenta Plastic Road
 appliedenergistics2:item.ItemFacade:0, Cable Facade - §6Orange Plastic Road
 appliedenergistics2:item.ItemFacade:0, Cable Facade - §fWhite Plastic Road
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Salt Block
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Walnut Log
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Walnut Planks
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Bordered Quartz
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Ender-Infused Metal
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Dimensional Bridge Stabilizer (Empty)
@@ -12432,40 +12379,6 @@ appliedenergistics2:item.ItemMultiPart:53, ME Smart Cable - Green
 appliedenergistics2:item.ItemMultiPart:54, ME Smart Cable - Red
 appliedenergistics2:item.ItemMultiPart:55, ME Smart Cable - Black
 appliedenergistics2:item.ItemMultiPart:56, ME Smart Cable - Fluix
-appliedenergistics2:item.ItemMultiPart:540, ME Backbone Covered Cable - White
-appliedenergistics2:item.ItemMultiPart:541, ME Backbone Covered Cable - Orange
-appliedenergistics2:item.ItemMultiPart:542, ME Backbone Covered Cable - Magenta
-appliedenergistics2:item.ItemMultiPart:543, ME Backbone Covered Cable - Light Blue
-appliedenergistics2:item.ItemMultiPart:544, ME Backbone Covered Cable - Yellow
-appliedenergistics2:item.ItemMultiPart:545, ME Backbone Covered Cable - Lime
-appliedenergistics2:item.ItemMultiPart:546, ME Backbone Covered Cable - Pink
-appliedenergistics2:item.ItemMultiPart:547, ME Backbone Covered Cable - Gray
-appliedenergistics2:item.ItemMultiPart:548, ME Backbone Covered Cable - Light Gray
-appliedenergistics2:item.ItemMultiPart:549, ME Backbone Covered Cable - Cyan
-appliedenergistics2:item.ItemMultiPart:550, ME Backbone Covered Cable - Purple
-appliedenergistics2:item.ItemMultiPart:551, ME Backbone Covered Cable - Blue
-appliedenergistics2:item.ItemMultiPart:552, ME Backbone Covered Cable - Brown
-appliedenergistics2:item.ItemMultiPart:553, ME Backbone Covered Cable - Green
-appliedenergistics2:item.ItemMultiPart:554, ME Backbone Covered Cable - Red
-appliedenergistics2:item.ItemMultiPart:555, ME Backbone Covered Cable - Black
-appliedenergistics2:item.ItemMultiPart:556, ME Backbone Covered Cable - Fluix
-appliedenergistics2:item.ItemMultiPart:560, ME Backbone Smart Cable - White
-appliedenergistics2:item.ItemMultiPart:561, ME Backbone Smart Cable - Orange
-appliedenergistics2:item.ItemMultiPart:562, ME Backbone Smart Cable - Magenta
-appliedenergistics2:item.ItemMultiPart:563, ME Backbone Smart Cable - Light Blue
-appliedenergistics2:item.ItemMultiPart:564, ME Backbone Smart Cable - Yellow
-appliedenergistics2:item.ItemMultiPart:565, ME Backbone Smart Cable - Lime
-appliedenergistics2:item.ItemMultiPart:566, ME Backbone Smart Cable - Pink
-appliedenergistics2:item.ItemMultiPart:567, ME Backbone Smart Cable - Gray
-appliedenergistics2:item.ItemMultiPart:568, ME Backbone Smart Cable - Light Gray
-appliedenergistics2:item.ItemMultiPart:569, ME Backbone Smart Cable - Cyan
-appliedenergistics2:item.ItemMultiPart:570, ME Backbone Smart Cable - Purple
-appliedenergistics2:item.ItemMultiPart:571, ME Backbone Smart Cable - Blue
-appliedenergistics2:item.ItemMultiPart:572, ME Backbone Smart Cable - Brown
-appliedenergistics2:item.ItemMultiPart:573, ME Backbone Smart Cable - Green
-appliedenergistics2:item.ItemMultiPart:574, ME Backbone Smart Cable - Red
-appliedenergistics2:item.ItemMultiPart:575, ME Backbone Smart Cable - Black
-appliedenergistics2:item.ItemMultiPart:576, ME Backbone Smart Cable - Fluix
 appliedenergistics2:item.ItemMultiPart:420, ME Conversion Monitor
 appliedenergistics2:item.ItemMultiPart:360, ME Crafting Terminal
 appliedenergistics2:item.ItemMultiPart:200, Dark Illuminated Panel
@@ -12825,64 +12738,6 @@ computronics:computronics.dockingUpgrade:0, Drone Docking Upgrade
 computronics:computronics.modules.tis3d:0, Colorful Module
 computronics:computronics.modules.tis3d:1, Tape Reader Module
 computronics:computronics.modules.tis3d:2, Self-Destructing Module
-cookingwithtfc:item.BrownMushroom, Brown Mushroom
-cookingwithtfc:item.RedMushroom, Red Mushroom
-cookingwithtfc:item.Lettuce, Lettuce
-cookingwithtfc:item.Celery, Celery
-cookingwithtfc:item.SlicedWatermelon, Sliced Watermelon
-cookingwithtfc:item.Watermelon, Watermelon
-cookingwithtfc:item.Pumpkin, Pumpkin
-cookingwithtfc:item.JackOLantern, Jack O' Lantern
-cookingwithtfc:item.Broth:0, Broth
-cookingwithtfc:item.BoiledChicken, Boiled Chicken
-cookingwithtfc:item.BoiledBeef, Boiled Beef
-cookingwithtfc:item.BoiledFish, Boiled Fish
-cookingwithtfc:item.BoiledPork, Boiled Pork
-cookingwithtfc:item.BoiledVenison, Boiled Venison
-cookingwithtfc:item.Peanut, Peanut
-cookingwithtfc:item.Chestnut, Chestnut
-cookingwithtfc:item.Pecan, Pecan
-cookingwithtfc:item.Acorn, Acorn
-cookingwithtfc:item.PineNut, Pine nut
-cookingwithtfc:item.Walnut, Walnut
-cookingwithtfc:item.Almond, Almond
-cookingwithtfc:item.Cashew, Cashew
-cookingwithtfc:item.Coconut, Coconut
-cookingwithtfc:item.Hazelnut, Hazelnut
-cookingwithtfc:item.Macadamia Nut, Macadamia Nut
-cookingwithtfc:item.Pistachio, Pistachio
-cookingwithtfc:item.Salt:0, Rock Salt
-cookingwithtfc:item.Salt:1, Sea Salt
-cookingwithtfc:item.VeggySalad, Vegetable Salad
-cookingwithtfc:item.PotatoSalad, Potato Salad
-cookingwithtfc:item.FruitSalad, Fruit Salad
-cookingwithtfc:item.VegetableSoup, Vegetable Soup
-cookingwithtfc:item.TomatoSoup, Tomato Soup
-cookingwithtfc:item.ChickenSoup, Chicken Soup
-cookingwithtfc:item.BeefStew, Beef Stew
-cookingwithtfc:item.VenisonStew, Venison Stew
-cookingwithtfc:item.FishChowder, Fish Chowder
-cookingwithtfc:item.HamSandwich:0, Ham Sandwich
-cookingwithtfc:item.ChickenSandwich:0, Chicken Sandwich
-cookingwithtfc:item.RoastBeefSandwich:0, Roast Beef Sandwich
-cookingwithtfc:item.SalmonSandwich:0, Seafood Sandwich
-cookingwithtfc:item.FriedEggSandwich:0, Fried Egg Sandwich
-cookingwithtfc:item.MuttonSandwich:0, Mutton Sandwich
-cookingwithtfc:item.VenisonSteakSandwich:0, Steak Sandwich
-cookingwithtfc:item.VegetarianSandwich:0, Vegetarian Sandwich
-cookingwithtfc:item.ToastSandwich:0, Bread Sandwich
-cookingwithtfc:item.CelerySeeds, Celery Seeds
-cookingwithtfc:item.LettuceSeeds, Lettuce Seeds
-cookingwithtfc:item.PumpkinSeeds, Pumpkin Seeds
-cookingwithtfc:item.MelonSeeds, Watermelon Seeds
-cookingwithtfc:item.BrownMushroomSpores, Brown Mushroom Spores
-cookingwithtfc:item.RedMushroomSpores, Red Mushroom Spores
-cookingwithtfc:item.PeanutSeeds, Peanut Seeds
-cookingwithtfc:item.clayCookingPot:0, Clay Cooking Pot
-cookingwithtfc:item.clayCookingPot:1, Ceramic Cooking Pot
-cookingwithtfc:item.clayOvenWall, Oven Wall
-cookingwithtfc:item.Log:0, Walnut Log
-cookingwithtfc:item.SinglePlank:0, Walnut Lumber
 customitems:itemcrushednativecopperore, item.itemcrushednativecopperore.name
 customitems:itemcrushednativegoldore, item.itemcrushednativegoldore.name
 customitems:itemcrushednativeplatinumore, item.itemcrushednativeplatinumore.name
@@ -14536,51 +14391,51 @@ ExtraUtilities:shears, Precision Shears
 ExtraUtilities:creativebuilderswand, Super Builder's Wand
 ExtraUtilities:sonar_goggles, Sonar Goggles
 ExtraUtilities:scanner, Portable Scanner
-factorization:daybarrel, item.factorization:daybarrel.name
-factorization:acid:0, Sulfuric Acid
-factorization:acid:1, Aqua Regia
-factorization:ceramics/glaze_bucket, Glaze Bucket
-factorization:docbook, The Factorization Manual
-factorization:mansandwich:0, Manwich
-factorization:mansandwich:1, Spicy Manwich
-factorization:spawnPoster, Poster
-factorization:sludge, Sludge
-factorization:sculptTool:0, Sculpting Tool
-factorization:barrelCart:0, Barrel Cart
-factorization:barrelCart:0, Barrel Cart: Creative Bedrock Barrel
-factorization:socket/scissors, Enormous Scissors
+factorization:servo/servo_motor, Servo Motor
 factorization:socket/:34, Robotic Arm
 factorization:socket/:35, Item Shifter
-factorization:servo/commenter, Commenter
-factorization:charge_battery, Battery Block
+factorization:corkscrew, Corkscrew
+factorization:servo/servo, Servo
+factorization:tool/pocket_crafting_table, Pocket Crafting Table
+factorization:logic_matrix, Blank Logic Matrix
+factorization:potencyBottle, Bottle of Potency
+factorization:sap, Sap
+factorization:servo/decorator, item.factorization:servo/decorator.name
+factorization:tool/charge_meter, Charge Meter
+factorization:logic_matrix_identifier, Logic Matrix: Identifier
+factorization:silver_ingot, Silver Ingot
+factorization:sculptTool:0, Sculpting Tool
 factorization:utiligoo:0, Goo
+factorization:acid:0, Sulfuric Acid
+factorization:acid:1, Aqua Regia
+factorization:servo/sprocket, Dark Iron Sprocket
+factorization:mirror, Mirror
+factorization:sludge, Sludge
+factorization:lead_ingot, Lead Ingot
+factorization:daybarrel, item.factorization:daybarrel.name
+factorization:charge_battery, Battery Block
+factorization:ceramics/glaze_bucket, Glaze Bucket
+factorization:tool/matrix_programmer, Logic Matrix Programmer
+factorization:insulated_coil, Insulated Coil
+factorization:nether_powder, Netherrack Powder
+factorization:docbook, The Factorization Manual
+factorization:entheas, Entheas
+factorization:socket/scissors, Enormous Scissors
+factorization:barrelCart:0, Barrel Cart
+factorization:barrelCart:0, Barrel Cart: Creative Bedrock Barrel
+factorization:dark_iron_ingot, Dark Iron Ingot
+factorization:mansandwich:0, Manwich
+factorization:mansandwich:1, Spicy Manwich
+factorization:motor, Motor
+factorization:servo/instruction_plate, Instruction Plate
+factorization:servo/commenter, Commenter
+factorization:servo/component, item.factorization:servo/component.name
+factorization:fan, Pressurizer
+factorization:diamond_cutting_head, Diamond Cutting Head
 factorization:brokenArtifact, item.factorization:brokenArtifact.name
 factorization:diamond_shard, Diamond Block Shard
-factorization:servo/instruction_plate, Instruction Plate
-factorization:tool/charge_meter, Charge Meter
-factorization:logic_matrix, Blank Logic Matrix
-factorization:entheas, Entheas
-factorization:mirror, Mirror
-factorization:sap, Sap
-factorization:insulated_coil, Insulated Coil
-factorization:logic_matrix_identifier, Logic Matrix: Identifier
-factorization:tool/pocket_crafting_table, Pocket Crafting Table
-factorization:servo/sprocket, Dark Iron Sprocket
-factorization:lead_ingot, Lead Ingot
-factorization:corkscrew, Corkscrew
-factorization:servo/servo_motor, Servo Motor
-factorization:silver_ingot, Silver Ingot
-factorization:fan, Pressurizer
-factorization:tool/matrix_programmer, Logic Matrix Programmer
-factorization:motor, Motor
-factorization:servo/decorator, item.factorization:servo/decorator.name
-factorization:nether_powder, Netherrack Powder
-factorization:servo/component, item.factorization:servo/component.name
 factorization:logic_matrix_controller, Logic Matrix: Controller
-factorization:dark_iron_ingot, Dark Iron Ingot
-factorization:potencyBottle, Bottle of Potency
-factorization:servo/servo, Servo
-factorization:diamond_cutting_head, Diamond Cutting Head
+factorization:spawnPoster, Poster
 ForgeMicroblock:sawStone, Stone Saw
 ForgeMicroblock:sawIron, Iron Saw
 ForgeMicroblock:sawDiamond, Diamond Saw
@@ -14965,13 +14820,6 @@ foundry:foundryContainer:0, Refractory Fluid Container
 foundry:foundryContainer:0, Refractory Fluid Container
 foundry:foundryContainer:0, Refractory Fluid Container
 foundry:foundryContainer:0, Refractory Fluid Container
-foundry:foundryContainer:0, Refractory Fluid Container
-foundry:foundryContainer:0, Refractory Fluid Container
-foundry:foundryContainer:0, Refractory Fluid Container
-foundry:foundryContainer:0, Refractory Fluid Container
-foundry:foundryContainer:0, Refractory Fluid Container
-foundry:foundryContainer:0, Refractory Fluid Container
-foundry:foundryContainer:0, Refractory Fluid Container
 pressure:Debugger, Pressure System Debugger
 pressure:Interface, Pressure System Interface
 pressure:TankWall, Tank Wall
@@ -15011,18 +14859,6 @@ GregsLighting:gasNozzle, Gas Nozzle
 GregsLighting:glowingIngot, Glowing Alloy Ingot
 GregsLighting:glowstoneBulb, IC2 Floodlight Bulb
 GregsLighting:ic2FilamentAssembly, IC2 Filament Assembly
-HardcoreQuesting:quest_book, item.hqm:quest_book.name
-HardcoreQuesting:hearts:0, Quarter of a heart
-HardcoreQuesting:hearts:1, Half a heart
-HardcoreQuesting:hearts:2, Three quarters of a heart
-HardcoreQuesting:hearts:3, Full heart
-HardcoreQuesting:hearts:4, Rotten heart
-HardcoreQuesting:bags:0, Reward Bag
-HardcoreQuesting:bags:1, Reward Bag
-HardcoreQuesting:bags:2, Reward Bag
-HardcoreQuesting:bags:3, Reward Bag
-HardcoreQuesting:bags:4, Reward Bag
-HardcoreQuesting:hqmInvalidItem, Invalid Item
 ihl:fiberGlass, Fiberglass
 ihl:item.flexiblePipe, item.flexiblePipe.name
 ihl:electricMotorLVLEDC, Lov voltage low efficiency DC electric motor

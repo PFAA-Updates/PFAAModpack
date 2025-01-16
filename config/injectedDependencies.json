@@ -56,15 +56,15 @@
       },
       {
         "type": "before",
+        "target": "BuildCraft|Builders"
+      },
+      {
+        "type": "before",
         "target": "BuildCraft|Energy"
       },
       {
         "type": "before",
         "target": "BuildCraft|Factory"
-      },
-      {
-        "type": "before",
-        "target": "BuildCraft|Builders"
       },
       {
         "type": "before",
@@ -144,11 +144,11 @@
       },
       {
         "type": "before",
-        "target": "BuildCraft|Transport"
+        "target": "BuildCraft|Silicon"
       },
       {
         "type": "before",
-        "target": "BuildCraft|Silicon"
+        "target": "BuildCraft|Transport"
       },
       {
         "type": "before",
@@ -264,11 +264,11 @@
       },
       {
         "type": "before",
-        "target": "questbook"
+        "target": "bq_standard"
       },
       {
         "type": "before",
-        "target": "bq_standard"
+        "target": "questbook"
       },
       {
         "type": "before",
@@ -297,10 +297,6 @@
       {
         "type": "before",
         "target": "computronics"
-      },
-      {
-        "type": "before",
-        "target": "cookingwithtfc"
       },
       {
         "type": "before",
@@ -436,10 +432,6 @@
       },
       {
         "type": "before",
-        "target": "HardcoreQuesting"
-      },
-      {
-        "type": "before",
         "target": "Ic2Nei"
       },
       {
@@ -564,7 +556,7 @@
       },
       {
         "type": "before",
-        "target": "pfaatweaks"
+        "target": "pfaatweaks2"
       },
       {
         "type": "before",
@@ -685,10 +677,6 @@
       {
         "type": "before",
         "target": "UnicodeFontFixer"
-      },
-      {
-        "type": "before",
-        "target": "universalcoins"
       },
       {
         "type": "before",
