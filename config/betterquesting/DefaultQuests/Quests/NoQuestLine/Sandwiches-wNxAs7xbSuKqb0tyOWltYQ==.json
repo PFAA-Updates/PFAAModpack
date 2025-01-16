@@ -1,0 +1,74 @@
+{
+  "questIDHigh:4": -4549690382847620382,
+  "preRequisites:9": {
+    "0:10": {
+      "questIDHigh:4": 5825856851861194228,
+      "questIDLow:4": -5023004805637419221
+    },
+    "1:10": {
+      "questIDHigh:4": -4877088887660394586,
+      "questIDLow:4": -5036686677385698542
+    },
+    "2:10": {
+      "questIDHigh:4": 6400617945355537348,
+      "questIDLow:4": -8714042209522075306
+    },
+    "3:10": {
+      "questIDHigh:4": -4338555941744327655,
+      "questIDLow:4": -8470433326673589275
+    }
+  },
+  "questIDLow:4": -6165626410885354143,
+  "properties:10": {
+    "betterquesting:10": {
+      "snd_complete:8": "random.levelup",
+      "taskLogic:8": "AND",
+      "visibility:8": "NORMAL",
+      "isMain:1": 0,
+      "simultaneous:1": 0,
+      "icon:10": {
+        "id:8": "terrafirmacraft:item.Sandwich",
+        "Count:3": 1,
+        "Damage:2": 0,
+        "OreDict:8": ""
+      },
+      "snd_update:8": "random.levelup",
+      "repeatTime:3": -1,
+      "globalShare:1": 0,
+      "questLogic:8": "AND",
+      "repeat_relative:1": 1,
+      "name:8": "Sandwiches",
+      "lockedProgress:1": 0,
+      "autoClaim:1": 0,
+      "isSilent:1": 0,
+      "desc:8": "Over the last few centuries researches have come to the conclusion that sandwiches are by far the best method of ingesting food. They are fast to consume, can be packed in a lunchbox and can be made with all the necessary nutrients to survive. Sandwiches can be made on a prep table."
+    }
+  },
+  "tasks:9": {},
+  "rewards:9": {
+    "0:10": {
+      "rewardID:8": "bq_standard:choice",
+      "index:3": 0,
+      "choices:9": {
+        "0:10": {
+          "id:8": "terrafirmacraft:item.TFC Leather",
+          "Count:3": 3,
+          "Damage:2": 0,
+          "OreDict:8": ""
+        },
+        "1:10": {
+          "id:8": "terrafirmacraft:item.WoolCloth",
+          "Count:3": 2,
+          "Damage:2": 0,
+          "OreDict:8": ""
+        },
+        "2:10": {
+          "id:8": "terrafirmacraft:item.Seeds Jute",
+          "Count:3": 4,
+          "Damage:2": 0,
+          "OreDict:8": ""
+        }
+      }
+    }
+  }
+}

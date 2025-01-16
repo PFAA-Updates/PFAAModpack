@@ -1,0 +1,72 @@
+{
+  "questIDHigh:4": -7666757284599281048,
+  "preRequisites:9": {
+    "0:10": {
+      "questIDHigh:4": -7076999997019238517,
+      "questIDLow:4": -5827816364105688258
+    },
+    "1:10": {
+      "questIDHigh:4": 1209280326766247937,
+      "questIDLow:4": -7187773240387330266
+    }
+  },
+  "questIDLow:4": -5834519268653947260,
+  "properties:10": {
+    "betterquesting:10": {
+      "snd_complete:8": "random.levelup",
+      "taskLogic:8": "AND",
+      "visibility:8": "NORMAL",
+      "isMain:1": 0,
+      "simultaneous:1": 0,
+      "icon:10": {
+        "id:8": "terrafirmacraft:Workbench",
+        "Count:3": 1,
+        "Damage:2": 0,
+        "OreDict:8": ""
+      },
+      "snd_update:8": "random.levelup",
+      "repeatTime:3": -1,
+      "globalShare:1": 0,
+      "questLogic:8": "AND",
+      "repeat_relative:1": 1,
+      "name:8": "Cutting Wood",
+      "lockedProgress:1": 0,
+      "autoClaim:1": 0,
+      "isSilent:1": 0,
+      "desc:8": "In order to survive you must be able to form wood into planks and make a crating bench. Then you can make simple wooden objects to modify your environment. Go ahead and make some blocks in order to build a house."
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "partialMatch:1": 1,
+      "autoConsume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 1,
+      "index:3": 0,
+      "consume:1": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "id:8": "terrafirmacraft:item.SinglePlank",
+          "Count:3": 1,
+          "Damage:2": 0,
+          "OreDict:8": "woodLumber"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  },
+  "rewards:9": {
+    "0:10": {
+      "rewardID:8": "bq_standard:item",
+      "index:3": 0,
+      "rewards:9": {
+        "0:10": {
+          "id:8": "terrafirmacraft:item.Ore",
+          "Count:3": 8,
+          "Damage:2": 0,
+          "OreDict:8": ""
+        }
+      }
+    }
+  }
+}

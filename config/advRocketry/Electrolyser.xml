@@ -21,7 +21,7 @@
 	The "useDefault" attribute will prevent loading of recipes if set to "false"
 <!-->
 <Recipes useDefault="false">
-	<Recipe timeRequired="250" power="1100">
+	<Recipe timeRequired="400" power="1600">
 		<input>
 			<fluidStack>ic2distilledwater 900</fluidStack>
         </input>

@@ -8,6 +8,26 @@
       },
       {
         "type": "before",
+        "target": "unimixins"
+      },
+      {
+        "type": "before",
+        "target": "unimixins-mixin"
+      },
+      {
+        "type": "before",
+        "target": "unimixins-compat"
+      },
+      {
+        "type": "before",
+        "target": "mixingasm"
+      },
+      {
+        "type": "before",
+        "target": "spongemixins"
+      },
+      {
+        "type": "before",
         "target": "mixinbooterlegacy"
       },
       {
@@ -16,11 +36,11 @@
       },
       {
         "type": "before",
-        "target": "spongemixins"
+        "target": "gtnhmixins"
       },
       {
         "type": "before",
-        "target": "mixingasm"
+        "target": "mixinextras"
       },
       {
         "type": "before",
@@ -33,6 +53,18 @@
       {
         "type": "before",
         "target": "BuildCraft|Core"
+      },
+      {
+        "type": "before",
+        "target": "BuildCraft|Builders"
+      },
+      {
+        "type": "before",
+        "target": "BuildCraft|Energy"
+      },
+      {
+        "type": "before",
+        "target": "BuildCraft|Factory"
       },
       {
         "type": "before",
@@ -105,18 +137,6 @@
       {
         "type": "before",
         "target": "BiblioCraft"
-      },
-      {
-        "type": "before",
-        "target": "BuildCraft|Builders"
-      },
-      {
-        "type": "before",
-        "target": "BuildCraft|Energy"
-      },
-      {
-        "type": "before",
-        "target": "BuildCraft|Factory"
       },
       {
         "type": "before",
@@ -204,6 +224,10 @@
       },
       {
         "type": "before",
+        "target": "gtnhlib"
+      },
+      {
+        "type": "before",
         "target": "appliedenergistics2"
       },
       {
@@ -220,6 +244,10 @@
       },
       {
         "type": "before",
+        "target": "BetterAchievements"
+      },
+      {
+        "type": "before",
         "target": "bookshelf"
       },
       {
@@ -228,15 +256,35 @@
       },
       {
         "type": "before",
+        "target": "bettercrashes"
+      },
+      {
+        "type": "before",
+        "target": "betterquesting"
+      },
+      {
+        "type": "before",
+        "target": "bq_standard"
+      },
+      {
+        "type": "before",
+        "target": "questbook"
+      },
+      {
+        "type": "before",
+        "target": "cb4bq"
+      },
+      {
+        "type": "before",
         "target": "BiblioWoodsTFC"
       },
       {
         "type": "before",
-        "target": "chisel"
+        "target": "CarpentersBlocks"
       },
       {
         "type": "before",
-        "target": "CarpentersBlocks"
+        "target": "chisel"
       },
       {
         "type": "before",
@@ -252,7 +300,7 @@
       },
       {
         "type": "before",
-        "target": "cookingwithtfc"
+        "target": "MineTweaker3"
       },
       {
         "type": "before",
@@ -268,7 +316,7 @@
       },
       {
         "type": "before",
-        "target": "CustomMainMenu"
+        "target": "custommainmenu"
       },
       {
         "type": "before",
@@ -293,10 +341,6 @@
       {
         "type": "before",
         "target": "enhancedportals"
-      },
-      {
-        "type": "before",
-        "target": "Baubles"
       },
       {
         "type": "before",
@@ -340,11 +384,23 @@
       },
       {
         "type": "before",
-        "target": "foundry"
+        "target": "McMultipart"
       },
       {
         "type": "before",
-        "target": "MineTweaker3"
+        "target": "ForgeMicroblock"
+      },
+      {
+        "type": "before",
+        "target": "ForgeRelocation"
+      },
+      {
+        "type": "before",
+        "target": "MCFrames"
+      },
+      {
+        "type": "before",
+        "target": "foundry"
       },
       {
         "type": "before",
@@ -373,10 +429,6 @@
       {
         "type": "before",
         "target": "GregsLighting"
-      },
-      {
-        "type": "before",
-        "target": "HardcoreQuesting"
       },
       {
         "type": "before",
@@ -504,15 +556,7 @@
       },
       {
         "type": "before",
-        "target": "openglasses"
-      },
-      {
-        "type": "before",
-        "target": "pfaatweaks"
-      },
-      {
-        "type": "before",
-        "target": "pfaamod"
+        "target": "pfaatweaks2"
       },
       {
         "type": "before",
@@ -528,11 +572,27 @@
       },
       {
         "type": "before",
-        "target": "ProjRed|Fabrication"
+        "target": "ProjRed|Expansion"
       },
       {
         "type": "before",
         "target": "ProjRed|Illumination"
+      },
+      {
+        "type": "before",
+        "target": "ProjRed|Transportation"
+      },
+      {
+        "type": "before",
+        "target": "ProjRed|Exploration"
+      },
+      {
+        "type": "before",
+        "target": "ProjRed|Compatibility"
+      },
+      {
+        "type": "before",
+        "target": "ProjRed|Fabrication"
       },
       {
         "type": "before",
@@ -541,6 +601,10 @@
       {
         "type": "before",
         "target": "ResourceLoader"
+      },
+      {
+        "type": "before",
+        "target": "Shatter"
       },
       {
         "type": "before",
@@ -553,6 +617,26 @@
       {
         "type": "before",
         "target": "StorageDrawers"
+      },
+      {
+        "type": "before",
+        "target": "StorageDrawersErebus"
+      },
+      {
+        "type": "before",
+        "target": "StorageDrawersForestry"
+      },
+      {
+        "type": "before",
+        "target": "StorageDrawersBop"
+      },
+      {
+        "type": "before",
+        "target": "StorageDrawersMisc"
+      },
+      {
+        "type": "before",
+        "target": "StorageDrawersNatura"
       },
       {
         "type": "before",
@@ -596,10 +680,6 @@
       },
       {
         "type": "before",
-        "target": "universalcoins"
-      },
-      {
-        "type": "before",
         "target": "wailaplugins"
       },
       {
@@ -608,23 +688,15 @@
       },
       {
         "type": "before",
-        "target": "WR-CBE|Addons"
-      },
-      {
-        "type": "before",
         "target": "WR-CBE|Logic"
       },
       {
         "type": "before",
+        "target": "WR-CBE|Addons"
+      },
+      {
+        "type": "before",
         "target": "zettaindustries"
-      },
-      {
-        "type": "before",
-        "target": "ForgeMicroblock"
-      },
-      {
-        "type": "before",
-        "target": "McMultipart"
       }
     ]
   }
