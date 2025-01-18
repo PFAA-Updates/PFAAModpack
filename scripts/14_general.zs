@@ -217,14 +217,6 @@ recipes.addShaped(<GregsLighting:floodlight>,
     [<ore:ingotIron>, <GregsLighting:glowingIngot>, <ore:ingotIron>],
     [<minecraft:glass:*>, <minecraft:glass:*>, <minecraft:glass:*>]]);
 
-/*
-We no longer use HQM maybe this could be used for BetterQuesting instead.
-recipes.addShaped(<HardcoreQuesting:quest_book>,
-   [[<ore:woodLumber>,<ore:itemRock>,<ore:itemRock>],
-    [<terrafirmacraft:item.Straw>,<terrafirmacraft:item.Straw>,<terrafirmacraft:item.Straw>],
-    [<ore:woodLumber>,<ore:itemRock>,<ore:itemRock>]]);
-*/
-
 recipes.addShaped(<OpenComputers:item:24>*8, [[<ore:nuggetIron>, null, <ore:nuggetIron>], [<ore:oc:materialTransistor>, <ore:nuggetGold>, <ore:oc:materialTransistor>], [<ore:nuggetIron>, null, <ore:nuggetIron>]]);
 
 val dustquartz=<ore:dustQuartz>;
