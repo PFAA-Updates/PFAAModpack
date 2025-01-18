@@ -1,3 +1,11 @@
+#### 1.4.0-RC2
+
+## Config changes
+* enable certus quartz tools so we have the ability to rename AE parts
+## Script changes
+* removed duplicate recipe for AR basic motor
+* removed crafting table recipe for advanced circuit parts
+
 
 #### 1.4.0-RC1
 
@@ -85,6 +93,73 @@ Other mod updates
 
 * Bibliocraft 1.11.7
 * IndustiralCraft 2 2.2.828a
+
+#### 1.3.2 - 1.4.0-Beta1
+
+CHANGES:
+
+* This is an update to the unreleased GitHub fan version
+* Amadron tablet removed, replacement recipes in place
+* OpenComputers transistors take less plastic to produce
+* Added missing dyed wool / painter recipes using lime paint
+* IE cables were adjusted to ease HV transmission
+* Some lime paints can now be produced in the IHL chemical reactor
+* TechGuns will no longer mess with the FOV when sprinting
+* Some dense plates can now be automated
+* Creeper Acid re-added
+* Obsidian can be made in the AR Chemical Reactor
+* Electric trains de-nerfed
+* 2x2 Half Framed Drawers will now consume saw durability and not the saw
+* OpenComputers updated, Computronics added
+* Metal casings can be made in the Metal Press
+* Some guide documentation has been updated and expanded
+* TFC Support Beams can now be produced in the Carpenter
+* TFC Lapis no longer voided by IE Crusher
+* Nuclear Control mod volumes fixed, new howler alarm sounds added
+* All Chisel mod blocks should now be attainable in survival
+* Project:Red insulated cables now require rubber, but use less red alloy
+* Changed recipe for Project:Red insulated cables to improve dye efficiency
+* Railcraft Tank valves and gauges can now be produced in the PneumaticCraft assembly station at a higher input efficiency
+* Chunk loading was tweaked for large bases and train networks
+* Quests updated to include hint quests for new and existing content, and to not overlap with UI elements
+* TechGuns oil clusters buffed to make automated/permanent oil wells slightly more practical
+* FoamFix 1.7.10 has been added, with Log4J exploit mitigations
+* Colourized some petrochem products to ease identification
+* Buffed advanced generators energy production ~50% or so to improve vs railcraft boilers (sextoria2)
+* Buffed AR electrolyzer recipes for distilled water and seawater electrolyzing to improve vs lab electrolyzers
+* Splet's varied Changes (splet)
+* The Fischer-Troph recipe now produces more syngas, so it should be more viable for use
+* Some IHL components can now be automated.  This should make mass production of oil refinery parts much easier
+- Iron plates in the ic2 metal former
+- Battery alloy plates in the ic2 metal former
+- Copper blocks, lead blocks, tin blocks by hand
+- Coke blocks can be crushed/macerated in bulk
+- High pressure inputs and outputs are flippable in a shapeless recipe that doesn't show up for some reason
+- AE2 cables can be covered with rubber, not just wool
+- AE2 cable anchors are now craftable
+- Railcraft coke torch recipe re-enabled with oredict
+- Railcraft quartz detector has been cheapened to use a lot less quartz
+- Quartz dust and silicon dioxide dust can be acquired by crushing the hell out of quartzite cobble and gravel, not just centrifuging the sand
+- TFC primtech bricks are craftable in industrial bulk and with ore-dict compatibility
+- Mortar can be crafted in the chemical reactor with lime milk or limewater using sand
+- A few misc fixes to z_kasafixes.zs to keep numbers straight
+- Fixed texture for ethene
+- Electric Evaporator can now be crafted with any copper plates
+- Fixed a bug where the IC2 liquid heat exchanger was having issues with Ethene and couldn't store more than 1mB of it at a time
+- Railcraft steam turbine inventory can now be interacted with by blocks
+- Railcraft Electric Locomotives can now be dyed
+- Railcraft Locomotive Detector can now use all dye items properly
+- Alternate acetone-phenol mixture routes have been created, using either bone ash or anhydrous aluminium trichloride
+- Oil Wells' oil hole cluster is now viable as a long-term oil source
+- Bug that caused IE wire connectors to send more power than they contained has been fixed.
+- Inedible starter apples removed, some recipes changed as a result
+- Ensured that the vast majority of IHL machines needed in quantity can be automated.
+- Various crafting recipes from ShadowEye, tweaked slightly
+- Retooled Advanced Generators crafting recipes and energy production
+- Added gem crushing to rarely gain some mid tier materials
+- The forestry Carpenter can be used to rip lumber to sticks, if lubricated with water
+- Reworked some Project:Red dyeing recipes
+- Updated FastCraft
 
 
 #### 1.3.1
