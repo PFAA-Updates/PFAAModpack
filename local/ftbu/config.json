@@ -1,6 +1,6 @@
 {
   "backups": {
-    "enabled": true,
+    "enabled": false,
     "backups_to_keep": 12,
     "backup_timer": 2.0,
     "compression_level": 1,
@@ -20,7 +20,7 @@
   "general": {
     "restart_timer": 0.0,
     "safe_spawn": false,
-    "spawn_pvp": true,
+    "spawn_pvp": false,
     "blocked_entities": [],
     "spawn_area_in_sp": false,
     "server_info_difficulty": true,
@@ -31,7 +31,6 @@
       "Welcome to the server!"
     ],
     "starting_items": [
-      "minecraft:apple 16 0"
     ]
   },
   "tops": {
