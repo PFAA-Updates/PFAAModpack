@@ -87,20 +87,14 @@ recipes.addShaped(<advancedRocketry:tile.sawBlade>,
   [<ore:plateSteel>, <IC2:itemAdvIronBlockCuttingBlade>, <ore:plateSteel>],
   [<ore:plateSteel>, null, <ore:plateSteel>]]);
 
-recipes.remove(<libVulpes:tile.motor>);
-recipes.addShaped(<libVulpes:tile.motor>,
- [[null, <libVulpes:libVulpescoil0:4>, <ore:plateSteel>],
-  [<ore:stickSteel>, <ore:stickSteel>, <ore:plateSteel>],
-  [null, <libVulpes:libVulpescoil0:4>, <ore:plateSteel>]]);
-
 recipes.remove(<advancedRocketry:miscpart>);
 recipes.addShaped(<advancedRocketry:miscpart>*4,
  [[<ore:dyeLime>, <minecraft:redstone>, <ore:dyeLime>],
   [<minecraft:glowstone_dust>, <ore:paneGlass>, <minecraft:glowstone_dust>],
   [<PneumaticCraft:plastic:15>, <PneumaticCraft:plastic:15>, <PneumaticCraft:plastic:15>]]);
 
-recipes.remove(<advancedRocketry:rocketmotor>);
-recipes.addShaped(<advancedRocketry:rocketmotor>,
+recipes.remove(<advancedRocketry:rocket>);
+recipes.addShaped(<advancedRocketry:rocket>,
  [[<ore:plateSteel>, <ore:plateChrome>, <ore:plateSteel>],
   [<techreborn:part:11>, <ore:plateTitanium>, <techreborn:part:11>],
   [<ore:plateTitanium>, null, <ore:plateTitanium>]]);

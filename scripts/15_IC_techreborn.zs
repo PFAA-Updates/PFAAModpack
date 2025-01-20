@@ -33,6 +33,7 @@ recipes.remove(<techreborn:part:32>);
 recipes.remove(<techreborn:part:38>);
 recipes.remove(<techreborn:part:37>);
 recipes.remove(<techreborn:part:36>);
+recipes.remove(<techreborn:part:40>);
 
 recipes.remove(<ihl:item.advanced_handpump:26>);
 
