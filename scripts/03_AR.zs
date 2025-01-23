@@ -93,8 +93,8 @@ recipes.addShaped(<advancedRocketry:miscpart>*4,
   [<minecraft:glowstone_dust>, <ore:paneGlass>, <minecraft:glowstone_dust>],
   [<PneumaticCraft:plastic:15>, <PneumaticCraft:plastic:15>, <PneumaticCraft:plastic:15>]]);
 
-recipes.remove(<advancedRocketry:rocket>);
-recipes.addShaped(<advancedRocketry:rocket>,
+recipes.remove(<advancedRocketry:rocketmotor>);
+recipes.addShaped(<advancedRocketry:rocketmotor>,
  [[<ore:plateSteel>, <ore:plateChrome>, <ore:plateSteel>],
   [<techreborn:part:11>, <ore:plateTitanium>, <techreborn:part:11>],
   [<ore:plateTitanium>, null, <ore:plateTitanium>]]);
