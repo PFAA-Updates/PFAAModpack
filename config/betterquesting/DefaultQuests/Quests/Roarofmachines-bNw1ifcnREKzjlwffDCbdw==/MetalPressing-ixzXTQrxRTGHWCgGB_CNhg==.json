@@ -1,86 +1,87 @@
 {
-  "questIDHigh:4": -8422620477193632463,
   "preRequisites:9": {
     "0:10": {
       "questIDHigh:4": -7385492427303008337,
       "questIDLow:4": -7497818762804439792
     }
   },
-  "questIDLow:4": -8694155074270622330,
   "properties:10": {
     "betterquesting:10": {
-      "snd_complete:8": "random.levelup",
-      "taskLogic:8": "AND",
-      "visibility:8": "NORMAL",
-      "isMain:1": 0,
-      "simultaneous:1": 0,
+      "autoClaim:1": 0,
+      "desc:8": "The metal press from immersive engineering is a solid piece of kit which grants for a low energy cost easier and more efficient recipes for making plates, gears, rods, and especially wires.",
+      "globalShare:1": 0,
       "icon:10": {
-        "id:8": "ImmersiveEngineering:mold",
         "Count:3": 1,
         "Damage:2": 1,
-        "OreDict:8": ""
+        "OreDict:8": "",
+        "id:8": "ImmersiveEngineering:mold"
       },
-      "snd_update:8": "random.levelup",
-      "repeatTime:3": -1,
-      "globalShare:1": 0,
-      "questLogic:8": "AND",
-      "repeat_relative:1": 1,
-      "name:8": "Metal Pressing",
-      "lockedProgress:1": 0,
-      "autoClaim:1": 0,
+      "isMain:1": 0,
       "isSilent:1": 0,
-      "desc:8": "The metal press from immersive engineering is a solid piece of kit which grants for a low energy cost easier and more efficient recipes for making plates, gears, rods, and especially wires."
+      "lockedProgress:1": 0,
+      "name:8": "Metal Pressing",
+      "questLogic:8": "AND",
+      "repeatTime:3": -1,
+      "repeat_relative:1": 1,
+      "simultaneous:1": 0,
+      "snd_complete:8": "random.levelup",
+      "snd_update:8": "random.levelup",
+      "taskLogic:8": "AND",
+      "visibility:8": "NORMAL"
+    }
+  },
+  "questIDHigh:4": -8422620477193632463,
+  "questIDLow:4": -8694155074270622330,
+  "rewards:9": {
+    "0:10": {
+      "ignoreDisabled:1": 0,
+      "index:3": 0,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 4,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "terrafirmacraft:item.Steel Ingot"
+        }
+      }
     }
   },
   "tasks:9": {
     "0:10": {
-      "partialMatch:1": 1,
       "autoConsume:1": 0,
+      "consume:1": 0,
       "groupDetect:1": 0,
       "ignoreNBT:1": 1,
       "index:3": 0,
-      "consume:1": 0,
+      "partialMatch:1": 1,
       "requiredItems:9": {
         "0:10": {
-          "id:8": "ImmersiveEngineering:metalDevice",
           "Count:3": 2,
           "Damage:2": 11,
-          "OreDict:8": ""
+          "OreDict:8": "",
+          "id:8": "ImmersiveEngineering:metalDevice"
         },
         "1:10": {
-          "id:8": "ImmersiveEngineering:metalDecoration",
           "Count:3": 3,
           "Damage:2": 1,
-          "OreDict:8": ""
+          "OreDict:8": "",
+          "id:8": "ImmersiveEngineering:metalDecoration"
         },
         "2:10": {
-          "id:8": "minecraft:piston",
           "Count:3": 1,
           "Damage:2": 0,
-          "OreDict:8": ""
+          "OreDict:8": "",
+          "id:8": "minecraft:piston"
         },
         "3:10": {
-          "id:8": "ImmersiveEngineering:metalDecoration",
           "Count:3": 1,
           "Damage:2": 5,
-          "OreDict:8": ""
+          "OreDict:8": "",
+          "id:8": "ImmersiveEngineering:metalDecoration"
         }
       },
       "taskID:8": "bq_standard:retrieval"
-    }
-  },
-  "rewards:9": {
-    "0:10": {
-      "rewardID:8": "bq_standard:item",
-      "index:3": 0,
-      "rewards:9": {
-        "0:10": {
-          "id:8": "terrafirmacraft:item.Steel Ingot",
-          "Count:3": 4,
-          "Damage:2": 0,
-          "OreDict:8": ""
-        }
-      }
     }
   }
 }
