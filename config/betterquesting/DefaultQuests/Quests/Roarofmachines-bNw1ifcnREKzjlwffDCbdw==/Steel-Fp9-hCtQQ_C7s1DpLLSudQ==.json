@@ -1,37 +1,37 @@
 {
-  "questIDHigh:4": 1630160696258872304,
   "preRequisites:9": {
     "0:10": {
       "questIDHigh:4": -2032149329206624099,
       "questIDLow:4": -6083600992639638665
     }
   },
-  "questIDLow:4": -4921501005378179467,
   "properties:10": {
     "betterquesting:10": {
-      "snd_complete:8": "random.levelup",
-      "taskLogic:8": "AND",
-      "visibility:8": "NORMAL",
-      "isMain:1": 0,
-      "simultaneous:1": 0,
+      "autoClaim:1": 0,
+      "desc:8": "After all the struggle of survival, we have made it! With steel, we can now create some fundamental machines and decrease all the hand work significantly.",
+      "globalShare:1": 0,
       "icon:10": {
-        "id:8": "terrafirmacraft:item.Steel Ingot",
         "Count:3": 1,
         "Damage:2": 0,
-        "OreDict:8": ""
+        "OreDict:8": "",
+        "id:8": "terrafirmacraft:item.Steel Ingot"
       },
-      "snd_update:8": "random.levelup",
-      "repeatTime:3": -1,
-      "globalShare:1": 0,
-      "questLogic:8": "AND",
-      "repeat_relative:1": 1,
-      "name:8": "Steel",
-      "lockedProgress:1": 0,
-      "autoClaim:1": 0,
+      "isMain:1": 0,
       "isSilent:1": 0,
-      "desc:8": "After all the struggle of survival, we have made it! With steel, we can now create some fundamental machines and decrease all the hand work significantly."
+      "lockedProgress:1": 0,
+      "name:8": "Steel",
+      "questLogic:8": "AND",
+      "repeatTime:3": -1,
+      "repeat_relative:1": 1,
+      "simultaneous:1": 0,
+      "snd_complete:8": "random.levelup",
+      "snd_update:8": "random.levelup",
+      "taskLogic:8": "AND",
+      "visibility:8": "NORMAL"
     }
   },
-  "tasks:9": {},
-  "rewards:9": {}
+  "questIDHigh:4": 1630160696258872304,
+  "questIDLow:4": -4921501005378179467,
+  "rewards:9": {},
+  "tasks:9": {}
 }

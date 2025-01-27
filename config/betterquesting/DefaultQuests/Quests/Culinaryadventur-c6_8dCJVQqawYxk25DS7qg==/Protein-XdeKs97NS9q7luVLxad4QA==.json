@@ -1,42 +1,42 @@
 {
-  "questIDHigh:4": 6762025870661864410,
   "preRequisites:9": {
     "0:10": {
       "questIDHigh:4": -1505936618056888325,
       "questIDLow:4": -7077155673055458779
     }
   },
-  "questIDLow:4": -4929500628509034432,
   "properties:10": {
     "betterquesting:10": {
-      "snd_complete:8": "random.levelup",
-      "taskLogic:8": "AND",
-      "visibility:8": "NORMAL",
-      "isMain:1": 0,
-      "simultaneous:1": 0,
-      "icon:10": {
-        "id:8": "terrafirmacraft:item.Egg Cooked",
-        "Count:3": 1,
-        "tag:10": {
-          "foodWeight:5": 160.0,
-          "foodDecay:5": -24.0,
-          "decayTimer:3": 719
-        },
-        "Damage:2": 0,
-        "OreDict:8": ""
-      },
-      "snd_update:8": "random.levelup",
-      "repeatTime:3": -1,
-      "globalShare:1": 0,
-      "questLogic:8": "AND",
-      "repeat_relative:1": 1,
-      "name:8": "Protein",
-      "lockedProgress:1": 0,
       "autoClaim:1": 0,
+      "desc:8": "One of the five essential food groups.",
+      "globalShare:1": 0,
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 0,
+        "OreDict:8": "",
+        "id:8": "terrafirmacraft:item.Egg Cooked",
+        "tag:10": {
+          "decayTimer:3": 719,
+          "foodDecay:5": -24.0,
+          "foodWeight:5": 160.0
+        }
+      },
+      "isMain:1": 0,
       "isSilent:1": 1,
-      "desc:8": "One of the five essential food groups."
+      "lockedProgress:1": 0,
+      "name:8": "Protein",
+      "questLogic:8": "AND",
+      "repeatTime:3": -1,
+      "repeat_relative:1": 1,
+      "simultaneous:1": 0,
+      "snd_complete:8": "random.levelup",
+      "snd_update:8": "random.levelup",
+      "taskLogic:8": "AND",
+      "visibility:8": "NORMAL"
     }
   },
-  "tasks:9": {},
-  "rewards:9": {}
+  "questIDHigh:4": 6762025870661864410,
+  "questIDLow:4": -4929500628509034432,
+  "rewards:9": {},
+  "tasks:9": {}
 }

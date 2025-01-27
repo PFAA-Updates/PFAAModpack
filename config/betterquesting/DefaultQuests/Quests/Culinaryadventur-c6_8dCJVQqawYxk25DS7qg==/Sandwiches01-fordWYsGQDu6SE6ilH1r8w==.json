@@ -1,0 +1,67 @@
+{
+  "preRequisites:9": {
+    "0:10": {
+      "questIDHigh:4": -8723816590897822793,
+      "questIDLow:4": -5667974048460432233
+    },
+    "1:10": {
+      "questIDHigh:4": 6762025870661864410,
+      "questIDLow:4": -4929500628509034432
+    }
+  },
+  "properties:10": {
+    "betterquesting:10": {
+      "autoClaim:1": 0,
+      "desc:8": "Over the last few centuries researches have come to the conclusion that sandwiches are by far the best method of ingesting food. They are fast to consume, can be packed in a lunchbox and can be made with all the necessary nutrients to survive. Sandwiches can be made on a prep table.",
+      "globalShare:1": 0,
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 0,
+        "OreDict:8": "",
+        "id:8": "minecraft:nether_star"
+      },
+      "isMain:1": 0,
+      "isSilent:1": 0,
+      "lockedProgress:1": 0,
+      "name:8": "Sandwiches 01",
+      "questLogic:8": "AND",
+      "repeatTime:3": -1,
+      "repeat_relative:1": 1,
+      "simultaneous:1": 0,
+      "snd_complete:8": "random.levelup",
+      "snd_update:8": "random.levelup",
+      "taskLogic:8": "AND",
+      "visibility:8": "NORMAL"
+    }
+  },
+  "questIDHigh:4": 9118343772219260987,
+  "questIDLow:4": -5023678924148872205,
+  "rewards:9": {
+    "0:10": {
+      "choices:9": {
+        "0:10": {
+          "Count:3": 4,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "terrafirmacraft:item.Seeds Jute"
+        },
+        "1:10": {
+          "Count:3": 2,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "terrafirmacraft:item.WoolCloth"
+        },
+        "2:10": {
+          "Count:3": 3,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "terrafirmacraft:item.TFC Leather"
+        }
+      },
+      "ignoreDisabled:1": 0,
+      "index:3": 0,
+      "rewardID:8": "bq_standard:choice"
+    }
+  },
+  "tasks:9": {}
+}
