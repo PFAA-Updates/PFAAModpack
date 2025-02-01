@@ -1,4 +1,4 @@
-import minetweaker.item.IOreDictEntry;
+import minetweaker.oredict.IOreDictEntry;
 
 var dyeStacks = [<ore:dyeWhite>, 		<ore:dyeOrange>,	<ore:dyeMagenta>,	<ore:dyeLightBlue>,
 				 <ore:dyeYellow>,		<ore:Lime>, 		<ore:dyePink>,		<ore:dyeGray>,
